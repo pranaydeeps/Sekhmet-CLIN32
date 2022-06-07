@@ -1,0 +1,1185 @@
+,source,wiki_sanity_source,target,wiki_sanity_target,source_words,target_words,compare,distance
+7,Food and Drug Administration,89063,Food and Drug Administration,0,4,4,1,0
+12,Furosemide,48848,Furosemide,0,1,1,1,0
+13,Myocarditis,39817,Myocarditis,0,1,1,1,0
+30,National Health Service,53062,National Health Service,0,3,3,1,0
+33,Gossypol,17602,Gossypol,0,1,1,1,0
+34,Diseases Database,12658,Diseases Database,0,2,2,1,0
+46,Paracelsus,76368,Paracelsus,0,1,1,1,0
+60,Otto Frank ,19484,Otto Frank ,0,2,2,1,0
+66,Fatigue,31495,Fatigue,0,1,1,1,0
+100,Minoxidil,41168,Minoxidil,0,1,1,1,0
+106,Acute respiratory distress syndrome,47450,Acute respiratory distress syndrome,0,4,4,1,0
+110,Aorta,33294,Aorta,0,1,1,1,0
+122,Fatigue,31479,Fatigue,0,1,1,1,0
+136,European Society of Cardiology,22537,European Society of Cardiology,0,4,4,1,0
+140,Diltiazem,33640,Diltiazem,0,1,1,1,0
+146,Christiaan Barnard,50023,Christiaan Barnard,0,2,2,1,0
+149,Avicenna,124585,Avicenna,0,1,1,1,0
+158,ICD-10,26625,ICD-10,0,1,1,1,0
+159,MedlinePlus,18475,MedlinePlus,0,1,1,1,0
+166,Ivabradine,23078,Ivabradine,0,1,1,1,0
+177,Ayurveda,88316,Ayurveda,0,1,1,1,0
+197,Endocarditis,23006,Endocarditis,0,1,1,1,0
+198,Hydralazine,26827,Hydralazine,0,1,1,1,0
+203,Medical Subject Headings,26288,Medical Subject Headings,0,3,3,1,0
+205,William Harvey,62305,William Harvey,0,2,2,1,0
+224,William Withering,34629,William Withering,0,2,2,1,0
+243,Yohimbine,62373,Yohimbine,0,1,1,1,0
+249,American Heart Association,23505,American Heart Association,0,3,3,1,0
+252,Thiamine,42621,Thiamine,0,1,1,1,0
+267,Salbutamol,41453,Salbutamol,0,1,1,1,0
+269,Willem Einthoven,27690,Willem Einthoven,0,2,2,1,0
+271,Pericarditis,30708,Pericarditis,0,1,1,1,0
+274,Endocarditis,23006,Endocarditis,0,1,1,1,0
+275,Hospice,43264,Hospice,0,1,1,1,0
+276,Verapamil,41623,Verapamil,0,1,1,1,0
+279,Anagrelide,24425,Anagrelide,0,1,1,1,0
+299,Ketamine,120221,Ketamine,0,1,1,1,0
+302,Bronchitis,35428,Bronchitis,0,1,1,1,0
+309,Symporter,17157,Symporter,0,1,1,1,0
+311,Ernst Chladni,32881,Ernst Chladni,0,2,2,1,0
+317,Periphanes,16410,Periphanes,0,1,1,1,0
+325,Stephen Jay Gould,71966,Stephen Jay Gould,0,3,3,1,0
+332,Pyrrhia exprimens,15618,Pyrrhia exprimens,0,2,2,1,0
+333,Hugh Huxley,24469,Hugh Huxley,0,2,2,1,0
+334,Arno Allan Penzias,32211,Arno Allan Penzias,0,3,3,1,0
+343,Protagoras ,39222,Protagoras ,0,1,1,1,0
+357,Jeanette Epps,58657,Jeanette Epps,0,2,2,1,0
+361,Natalizumab,39685,Natalizumab,0,1,1,1,0
+362,Amplitude,22247,Amplitude,0,1,1,1,0
+366,Meitnerium,41186,Meitnerium,0,1,1,1,0
+377,Pus,17006,Pus,0,1,1,1,0
+382,Praxiteles,28981,Praxiteles,0,1,1,1,0
+387,Sirenia ,30646,Sirenia ,0,1,1,1,0
+389,Scandium,40903,Scandium,0,1,1,1,0
+390,Jafar Panahi,69560,Jafar Panahi,0,2,2,1,0
+395,Staphylococcus epidermidis,29665,Staphylococcus epidermidis,0,2,2,1,0
+410,Johannes Oecolampadius,28346,Johannes Oecolampadius,0,2,2,1,0
+411,Grog,26227,Grog,0,1,1,1,0
+416,United States Department of Agriculture,66227,United States Department of Agriculture,0,5,5,1,0
+436,Carnegie Mellon University,94918,Carnegie Mellon University,0,3,3,1,0
+439,Arnaldus de Villa Nova,27866,Arnaldus de Villa Nova,0,4,4,1,0
+444,Alessandro Volta,39133,Alessandro Volta,0,2,2,1,0
+451,Sciacca,29165,Sciacca,0,1,1,1,0
+454,Edward Teller,104657,Edward Teller,0,2,2,1,0
+455,Candidiasis,47150,Candidiasis,0,1,1,1,0
+464,European Physical Journal A,11319,European Physical Journal A,0,4,4,1,0
+471,Nortriptyline,77167,Nortriptyline,0,1,1,1,0
+476,Anopheles gambiae,22040,Anopheles gambiae,0,2,2,1,0
+478,Vincristine,32510,Vincristine,0,1,1,1,0
+481,Camillo Golgi,40040,Camillo Golgi,0,2,2,1,0
+488,Shandy,25145,Shandy,0,1,1,1,0
+493,Fondaparinux,24020,Fondaparinux,0,1,1,1,0
+494,Daniel Dennett,72280,Daniel Dennett,0,2,2,1,0
+501,Daniel Coit Gilman,30461,Daniel Coit Gilman,0,3,3,1,0
+508,Strongyloides stercoralis,30041,Strongyloides stercoralis,0,2,2,1,0
+511,Politico,39763,Politico,0,1,1,1,0
+518,Andreas Mogensen,56390,Andreas Mogensen,0,2,2,1,0
+519,Propiverine,20606,Propiverine,0,1,1,1,0
+523,Melamine,46844,Melamine,0,1,1,1,0
+527,Arctia flavia,13700,Arctia flavia,0,2,2,1,0
+529,John Herrington,61074,John Herrington,0,2,2,1,0
+540,CRC Handbook of Chemistry and Physics,16937,CRC Handbook of Chemistry and Physics,0,6,6,1,0
+548,Aljaraque,28713,Aljaraque,0,1,1,1,0
+556,Steve Biko,96277,Steve Biko,0,2,2,1,0
+558,Ectoderm,25269,Ectoderm,0,1,1,1,0
+565,Wilhelm Reich,124939,Wilhelm Reich,0,2,2,1,0
+568,Kumbh Mela,80684,Kumbh Mela,0,2,2,1,0
+578,Casimir Funk,18553,Casimir Funk,0,2,2,1,0
+579,Robert Fludd,42067,Robert Fludd,0,2,2,1,0
+586,Choline,63897,Choline,0,1,1,1,0
+589,Norishige Kanai,54214,Norishige Kanai,0,2,2,1,0
+597,Sassafras,31093,Sassafras,0,1,1,1,0
+601,Aquarium,62559,Aquarium,0,1,1,1,0
+603,Teseo Tesei,53972,Teseo Tesei,0,2,2,1,0
+607,Lemma ,22637,Lemma ,0,1,1,1,0
+625,Harold Warris Thompson,21514,Harold Warris Thompson,0,3,3,1,0
+632,Cholesterol,74832,Cholesterol,0,1,1,1,0
+639,Pedro Duque,62290,Pedro Duque,0,2,2,1,0
+642,UNESCO,93880,UNESCO,0,1,1,1,0
+647,American Psychiatric Association,32104,American Psychiatric Association,0,3,3,1,0
+649,Terbium,34903,Terbium,0,1,1,1,0
+653,Thebacon,35132,Thebacon,0,1,1,1,0
+658,Jacques Herbrand,20373,Jacques Herbrand,0,2,2,1,0
+659,Centers for Disease Control and Prevention,69410,Centers for Disease Control and Prevention,0,6,6,1,0
+664,Range of motion,16012,Range of motion,0,3,3,1,0
+667,Doxycycline,42635,Doxycycline,0,1,1,1,0
+668,Loganiaceae,23399,Loganiaceae,0,1,1,1,0
+669,Kai Siegbahn,23871,Kai Siegbahn,0,2,2,1,0
+674,Pseudofolliculitis barbae,28297,Pseudofolliculitis barbae,0,2,2,1,0
+687,Lyman Spitzer,25963,Lyman Spitzer,0,2,2,1,0
+691,Physician assistant,48638,Physician assistant,0,2,2,1,0
+692,Ex vivo,15954,Ex vivo,0,2,2,1,0
+702,Psoriasis,73554,Psoriasis,0,1,1,1,0
+709,Pseudoceros liparus,19102,Pseudoceros liparus,0,2,2,1,0
+714,Otto Heinrich Warburg,43363,Otto Heinrich Warburg,0,3,3,1,0
+715,Unisys,36419,Unisys,0,1,1,1,0
+718,Gregory Chamitoff,61633,Gregory Chamitoff,0,2,2,1,0
+719,Ibn Khaldun,74251,Ibn Khaldun,0,2,2,1,0
+726,Nutrien,19344,Nutrien,0,1,1,1,0
+728,Suda,24918,Suda,0,1,1,1,0
+734,Mesna,21241,Mesna,0,1,1,1,0
+735,Biofilm,72564,Biofilm,0,1,1,1,0
+736,An Unmarried Woman,20156,An Unmarried Woman,0,3,3,1,0
+737,Mika Waltari,38730,Mika Waltari,0,2,2,1,0
+744,Ivacaftor,29795,Ivacaftor,0,1,1,1,0
+747,Alkali,17983,Alkali,0,1,1,1,0
+757,Sting ,109188,Sting ,0,1,1,1,0
+758,Rofecoxib,68673,Rofecoxib,0,1,1,1,0
+759,Abatacept,23159,Abatacept,0,1,1,1,0
+760,Lactitol,27661,Lactitol,0,1,1,1,0
+770,Paracoccidioidomycosis,29152,Paracoccidioidomycosis,0,1,1,1,0
+790,Erysipeloid,19876,Erysipeloid,0,1,1,1,0
+797,Nitrox,88390,Nitrox,0,1,1,1,0
+802,Suunto,65892,Suunto,0,1,1,1,0
+804,Filicudi,26707,Filicudi,0,1,1,1,0
+806,Methylone,43947,Methylone,0,1,1,1,0
+807,Augustin Pyramus de Candolle,42789,Augustin Pyramus de Candolle,0,4,4,1,0
+809,Timothy Creamer,58614,Timothy Creamer,0,2,2,1,0
+823,Sprint ,46321,Sprint ,0,1,1,1,0
+824,Hafnium,44077,Hafnium,0,1,1,1,0
+831,Acridine,26784,Acridine,0,1,1,1,0
+839,George Washington,218459,George Washington,0,2,2,1,0
+841,Neptunium,89163,Neptunium,0,1,1,1,0
+845,Al-Sijzi,26651,Al-Sijzi,0,1,1,1,0
+847,Hobby,39748,Hobby,0,1,1,1,0
+854,May-Britt Moser,32420,May-Britt Moser,0,2,2,1,0
+865,Aorta,33294,Aorta,0,1,1,1,0
+866,Leptospira interrogans,16015,Leptospira interrogans,0,2,2,1,0
+872,Salou,37933,Salou,0,1,1,1,0
+903,Cinnarizine,40497,Cinnarizine,0,1,1,1,0
+911,Gap junction,42838,Gap junction,0,2,2,1,0
+916,Leon Cooper,25321,Leon Cooper,0,2,2,1,0
+919,Cuterebra fontinella,27732,Cuterebra fontinella,0,2,2,1,0
+929,Fatigue,31334,Fatigue,0,1,1,1,0
+930,Tongba,13891,Tongba,0,1,1,1,0
+936,Melanie Klein,45165,Melanie Klein,0,2,2,1,0
+941,Jacques Lacan,98915,Jacques Lacan,0,2,2,1,0
+943,Disulfiram,39094,Disulfiram,0,1,1,1,0
+970,Jupiter ,107913,Jupiter ,0,1,1,1,0
+971,Neurochip,13364,Neurochip,0,1,1,1,0
+972,Whisky,60701,Whisky,0,1,1,1,0
+974,Raltegravir,27393,Raltegravir,0,1,1,1,0
+976,Arthur Ashe,98990,Arthur Ashe,0,2,2,1,0
+984,Sumer,108322,Sumer,0,1,1,1,0
+985,Antioxidant,51022,Antioxidant,0,1,1,1,0
+989,Vernon Heywood,18333,Vernon Heywood,0,2,2,1,0
+995,Vedanta,102413,Vedanta,0,1,1,1,0
+1000,Charles Scott Sherrington,50350,Charles Scott Sherrington,0,3,3,1,0
+1006,Memantine,72504,Memantine,0,1,1,1,0
+1009,Acetazolamide,32130,Acetazolamide,0,1,1,1,0
+1019,British Library,118102,British Library,0,2,2,1,0
+1021,Food and Drug Administration,89218,Food and Drug Administration,0,4,4,1,0
+1023,Public safety diving,54145,Public safety diving,0,3,3,1,0
+1036,Ibn Butlan,23335,Ibn Butlan,0,2,2,1,0
+1041,Evidence-based medicine,59314,Evidence-based medicine,0,2,2,1,0
+1042,Riccardo Giacconi,26451,Riccardo Giacconi,0,2,2,1,0
+1043,Ada Lovelace,73427,Ada Lovelace,0,2,2,1,0
+1052,Drake White,16931,Drake White,0,2,2,1,0
+1053,Datura,55526,Datura,0,1,1,1,0
+1057,Citalopram,50645,Citalopram,0,1,1,1,0
+1062,Ebolavirus,31018,Ebolavirus,0,1,1,1,0
+1066,NANDA International,21027,NANDA International,0,2,2,1,0
+1068,Policastro Bussentino,20320,Policastro Bussentino,0,2,2,1,0
+1071,Transistor,80144,Transistor,0,1,1,1,0
+1075,Lawrencium,53226,Lawrencium,0,1,1,1,0
+1081,Cab Calloway,52961,Cab Calloway,0,2,2,1,0
+1089,Anthony Fauci,104316,Anthony Fauci,0,2,2,1,0
+1092,Snooker,64713,Snooker,0,1,1,1,0
+1096,Charles Lyell,64294,Charles Lyell,0,2,2,1,0
+1102,Alternariol,30225,Alternariol,0,1,1,1,0
+1108,National Health Service,53205,National Health Service,0,3,3,1,0
+1111,William Howard Taft,160128,William Howard Taft,0,3,3,1,0
+1115,Anthony Eden,133312,Anthony Eden,0,2,2,1,0
+1119,Sesquioxide,15281,Sesquioxide,0,1,1,1,0
+1130,National Health Service,53062,National Health Service,0,3,3,1,0
+1132,Siddhartha Mukherjee,46751,Siddhartha Mukherjee,0,2,2,1,0
+1138,Tennessee whiskey,29619,Tennessee whiskey,0,2,2,1,0
+1140,Duncan Haldane,26214,Duncan Haldane,0,2,2,1,0
+1141,MIT OpenCourseWare,22780,MIT OpenCourseWare,0,2,2,1,0
+1142,Fentanyl,82085,Fentanyl,0,1,1,1,0
+1144,Embedded system,56031,Embedded system,0,2,2,1,0
+1145,Flora ,20169,Flora ,0,1,1,1,0
+1155,Oricum,34209,Oricum,0,1,1,1,0
+1158,Konrad Lorenz,61297,Konrad Lorenz,0,2,2,1,0
+1171,Rishikesh,45594,Rishikesh,0,1,1,1,0
+1173,Atlas ,29664,Atlas ,0,1,1,1,0
+1174,Clostridia,24086,Clostridia,0,1,1,1,0
+1178,Franz Brentano,39257,Franz Brentano,0,2,2,1,0
+1179,Amlodipine,43906,Amlodipine,0,1,1,1,0
+1189,Al-Farabi,69429,Al-Farabi,0,1,1,1,0
+1193,Centers for Disease Control and Prevention,69618,Centers for Disease Control and Prevention,0,6,6,1,0
+1210,Andreas Libavius,28724,Andreas Libavius,0,2,2,1,0
+1223,Pennsylvania State University,90390,Pennsylvania State University,0,3,3,1,0
+1231,Streptococcus pyogenes,35972,Streptococcus pyogenes,0,2,2,1,0
+1232,Rebranding,25965,Rebranding,0,1,1,1,0
+1236,Yorkshire,111867,Yorkshire,0,1,1,1,0
+1242,Cochrane ,26018,Cochrane ,0,1,1,1,0
+1247,Hydroxyproline,19867,Hydroxyproline,0,1,1,1,0
+1251,Akihiko Hoshide,58150,Akihiko Hoshide,0,2,2,1,0
+1254,In vino veritas,18587,In vino veritas,0,3,3,1,0
+1262,Rama,97251,Rama,0,1,1,1,0
+1267,Scotland Yard,34516,Scotland Yard,0,2,2,1,0
+1272,Cholinesterase,35496,Cholinesterase,0,1,1,1,0
+1277,National Security Agency,150797,National Security Agency,0,3,3,1,0
+1281,Rajasthan,78838,Rajasthan,0,1,1,1,0
+1282,Dupont Circle,44751,Dupont Circle,0,2,2,1,0
+1284,Legionella pneumophila,30509,Legionella pneumophila,0,2,2,1,0
+1292,Richard Axel,31028,Richard Axel,0,2,2,1,0
+1298,Deuterium,66484,Deuterium,0,1,1,1,0
+1301,Website,41889,Website,0,1,1,1,0
+1305,Amaurosis fugax,30410,Amaurosis fugax,0,2,2,1,0
+1307,Midsomer Murders,40739,Midsomer Murders,0,2,2,1,0
+1315,Dictyostelium,19834,Dictyostelium,0,1,1,1,0
+1316,Isomerase,40853,Isomerase,0,1,1,1,0
+1319,Asterids,21479,Asterids,0,1,1,1,0
+1322,Makar Sankranti,72916,Makar Sankranti,0,2,2,1,0
+1325,Sugammadex,34464,Sugammadex,0,1,1,1,0
+1335,Ultimate Fighting Championship,135546,Ultimate Fighting Championship,0,3,3,1,0
+1338,Baruch Samuel Blumberg,34971,Baruch Samuel Blumberg,0,3,3,1,0
+1354,Atrium ,27236,Atrium ,0,1,1,1,0
+1356,Corpus Hermeticum,25186,Corpus Hermeticum,0,2,2,1,0
+1357,Speakeasy,27762,Speakeasy,0,1,1,1,0
+1358,Malaria,124324,Malaria,0,1,1,1,0
+1361,Skeptical Inquirer,27909,Skeptical Inquirer,0,2,2,1,0
+1362,MDMA,133923,MDMA,0,1,1,1,0
+1370,Tyramine,38346,Tyramine,0,1,1,1,0
+1378,Royal Society,70593,Royal Society,0,2,2,1,0
+1380,Gregory Chaitin,22412,Gregory Chaitin,0,2,2,1,0
+1388,Aspergillus fumigatus,29983,Aspergillus fumigatus,0,2,2,1,0
+1392,The Lancet,32823,The Lancet,0,2,2,1,0
+1395,Pedanius Dioscorides,33385,Pedanius Dioscorides,0,2,2,1,0
+1398,Heinrich Hertz,49672,Heinrich Hertz,0,2,2,1,0
+1400,Brexit,120314,Brexit,0,1,1,1,0
+1403,Hermetica,61784,Hermetica,0,1,1,1,0
+1410,Bilateria,30730,Bilateria,0,1,1,1,0
+1414,Digital object identifier,41342,Digital object identifier,0,3,3,1,0
+1421,Hermetica,61806,Hermetica,0,1,1,1,0
+1422,Ouroboros,48180,Ouroboros,0,1,1,1,0
+1423,Eggnog,50168,Eggnog,0,1,1,1,0
+1433,Glycoside,26656,Glycoside,0,1,1,1,0
+1434,Boston Scientific,36334,Boston Scientific,0,2,2,1,0
+1438,Lamotrigine,54008,Lamotrigine,0,1,1,1,0
+1441,Tritium,54728,Tritium,0,1,1,1,0
+1444,Virtual International Authority File,31076,Virtual International Authority File,0,4,4,1,0
+1445,Professional Association of Diving Instructors,64019,Professional Association of Diving Instructors,0,5,5,1,0
+1448,Berkelium,57274,Berkelium,0,1,1,1,0
+1449,Naproxen,43584,Naproxen,0,1,1,1,0
+1459,Aristolochia,32216,Aristolochia,0,1,1,1,0
+1460,Primer ,29355,Primer ,0,1,1,1,0
+1463,Hebei,68206,Hebei,0,1,1,1,0
+1464,Orphanet,18830,Orphanet,0,1,1,1,0
+1467,Scalpel,34573,Scalpel,0,1,1,1,0
+1474,James Paget,30129,James Paget,0,2,2,1,0
+1476,Paracetamol,75696,Paracetamol,0,1,1,1,0
+1477,Aplysia,32145,Aplysia,0,1,1,1,0
+1489,Zygote,25137,Zygote,0,1,1,1,0
+1492,Trimethylamine,22337,Trimethylamine,0,1,1,1,0
+1493,Imhotep,35543,Imhotep,0,1,1,1,0
+1496,Synedrion,14510,Synedrion,0,1,1,1,0
+1497,Borneol,25351,Borneol,0,1,1,1,0
+1499,Poppers,29959,Poppers,0,1,1,1,0
+1500,Stretching,25866,Stretching,0,1,1,1,0
+1502,Mirabegron,25890,Mirabegron,0,1,1,1,0
+1512,United States Department of Veterans Affairs,49015,United States Department of Veterans Affairs,0,6,6,1,0
+1513,ZMapp,29087,ZMapp,0,1,1,1,0
+1518,Moraxella catarrhalis,30446,Moraxella catarrhalis,0,2,2,1,0
+1525,Doctor of Philosophy,100836,Doctor of Philosophy,0,3,3,1,0
+1528,Albert Ellis,63923,Albert Ellis,0,2,2,1,0
+1534,Lisinopril,31947,Lisinopril,0,1,1,1,0
+1548,Hans Christian Gram,17183,Hans Christian Gram,0,3,3,1,0
+1555,Nucleotide,45639,Nucleotide,0,1,1,1,0
+1558,Metirosine,22282,Metirosine,0,1,1,1,0
+1559,Newsweek,42519,Newsweek,0,1,1,1,0
+1562,Panthenol,20695,Panthenol,0,1,1,1,0
+1567,Euchalcia variabilis,15091,Euchalcia variabilis,0,2,2,1,0
+1574,Lichen planus,55729,Lichen planus,0,2,2,1,0
+1575,Standard operating procedure,56282,Standard operating procedure,0,3,3,1,0
+1577,Intron,35451,Intron,0,1,1,1,0
+1579,Object ,25100,Object ,0,1,1,1,0
+1587,Ibn Hazm,48133,Ibn Hazm,0,2,2,1,0
+1595,Cholera,79722,Cholera,0,1,1,1,0
+1596,Prevotella intermedia,17557,Prevotella intermedia,0,2,2,1,0
+1604,Lactobacillus helveticus,13150,Lactobacillus helveticus,0,2,2,1,0
+1608,Carnosine,20075,Carnosine,0,1,1,1,0
+1610,Al-Andalus,109418,Al-Andalus,0,1,1,1,0
+1612,Emmanuelle Charpentier,47894,Emmanuelle Charpentier,0,2,2,1,0
+1630,Linuron,24458,Linuron,0,1,1,1,0
+1633,Klebsiella pneumoniae,37093,Klebsiella pneumoniae,0,2,2,1,0
+1647,Tulane University,71914,Tulane University,0,2,2,1,0
+1661,Tapentadol,47259,Tapentadol,0,1,1,1,0
+1663,Moclobemide,54768,Moclobemide,0,1,1,1,0
+1667,California Institute of Technology,90355,California Institute of Technology,0,4,4,1,0
+1671,Whisky,60835,Whisky,0,1,1,1,0
+1672,Parecoxib,27639,Parecoxib,0,1,1,1,0
+1676,Tsipouro,24515,Tsipouro,0,1,1,1,0
+1677,Alicudi,27507,Alicudi,0,1,1,1,0
+1678,Sunao Tawara,18046,Sunao Tawara,0,2,2,1,0
+1687,Koichi Wakata,58918,Koichi Wakata,0,2,2,1,0
+1689,Alcohol ,51578,Alcohol ,0,1,1,1,0
+1693,The Economist,64722,The Economist,0,2,2,1,0
+1694,Chaitanya Mahaprabhu,67595,Chaitanya Mahaprabhu,0,2,2,1,0
+1698,Endosulfan,64484,Endosulfan,0,1,1,1,0
+1700,Antidotarium Nicolai,16879,Antidotarium Nicolai,0,2,2,1,0
+1714,Fullmetal Alchemist,62369,Fullmetal Alchemist,0,2,2,1,0
+1718,Licor 43,17678,Licor 43,0,2,2,1,0
+1726,Pemphigus vulgaris,23435,Pemphigus vulgaris,0,2,2,1,0
+1734,David Hume,183553,David Hume,0,2,2,1,0
+1739,Common law,121942,Common law,0,2,2,1,0
+1740,Federal Bureau of Investigation,108565,Federal Bureau of Investigation,0,4,4,1,0
+1750,Lacosamide,35336,Lacosamide,0,1,1,1,0
+1751,Kerala,190186,Kerala,0,1,1,1,0
+1754,World Press Photo,18532,World Press Photo,0,3,3,1,0
+1756,Loperamide,42988,Loperamide,0,1,1,1,0
+1757,Dennis Gabor,33642,Dennis Gabor,0,2,2,1,0
+1764,Benzodiazepine,104850,Benzodiazepine,0,1,1,1,0
+1782,Serine,38383,Serine,0,1,1,1,0
+1787,Emtricitabine,25205,Emtricitabine,0,1,1,1,0
+1790,Simon Singh,33947,Simon Singh,0,2,2,1,0
+1795,Bacchylides,53657,Bacchylides,0,1,1,1,0
+1796,Hafiz ,23751,Hafiz ,0,1,1,1,0
+1797,Coagulase,20724,Coagulase,0,1,1,1,0
+1804,Smartphone,123801,Smartphone,0,1,1,1,0
+1821,Resorcinol,23806,Resorcinol,0,1,1,1,0
+1825,Johannes Diderik van der Waals,44424,Johannes Diderik van der Waals,0,5,5,1,0
+1826,Maryland,138243,Maryland,0,1,1,1,0
+1828,Control flow,55392,Control flow,0,2,2,1,0
+1833,Gregor Mendel,51155,Gregor Mendel,0,2,2,1,0
+1842,Magnetometer,75798,Magnetometer,0,1,1,1,0
+1849,Gerald Edelman,43923,Gerald Edelman,0,2,2,1,0
+1850,Theory of mind,83917,Theory of mind,0,3,3,1,0
+1851,Francium,42940,Francium,0,1,1,1,0
+1852,Owen Willans Richardson,23876,Owen Willans Richardson,0,3,3,1,0
+1853,Ustekinumab,29381,Ustekinumab,0,1,1,1,0
+1858,Albertus Magnus,72687,Albertus Magnus,0,2,2,1,0
+1861,Coxsackievirus,25647,Coxsackievirus,0,1,1,1,0
+1863,Ferid Murad,28082,Ferid Murad,0,2,2,1,0
+1877,Jeff Garlin,36306,Jeff Garlin,0,2,2,1,0
+1878,Rotavirus,58556,Rotavirus,0,1,1,1,0
+1890,COVID-19,157094,COVID-19,0,1,1,1,0
+1894,Cafestol,21278,Cafestol,0,1,1,1,0
+1895,Streptococcus oralis,16139,Streptococcus oralis,0,2,2,1,0
+1902,Anna Freud,53643,Anna Freud,0,2,2,1,0
+1907,Montelukast,32234,Montelukast,0,1,1,1,0
+1910,Pneumothorax,57401,Pneumothorax,0,1,1,1,0
+1913,Glimepiride,36988,Glimepiride,0,1,1,1,0
+1916,Moritz Kaposi,20834,Moritz Kaposi,0,2,2,1,0
+1919,Claude Bernard,41219,Claude Bernard,0,2,2,1,0
+1932,Mitragyna speciosa,57634,Mitragyna speciosa,0,2,2,1,0
+1934,Afamelanotide,29494,Afamelanotide,0,1,1,1,0
+1936,Andreas Vesalius,50819,Andreas Vesalius,0,2,2,1,0
+1946,Akrai,36245,Akrai,0,1,1,1,0
+1948,Willis Lamb,24139,Willis Lamb,0,2,2,1,0
+1949,Rudy Giuliani,162324,Rudy Giuliani,0,2,2,1,0
+1968,Materia medica,34405,Materia medica,0,2,2,1,0
+1969,European Society of Cardiology,22537,European Society of Cardiology,0,4,4,1,0
+1974,Aflibercept,27971,Aflibercept,0,1,1,1,0
+1975,Cofactor ,34015,Cofactor ,0,1,1,1,0
+1980,United States Air Force,110392,United States Air Force,0,4,4,1,0
+1982,Melbourne,117918,Melbourne,0,1,1,1,0
+1988,ICD-10,26625,ICD-10,0,1,1,1,0
+1992,Emil Leon Post,25359,Emil Leon Post,0,3,3,1,0
+1996,Dafydd Williams,69521,Dafydd Williams,0,2,2,1,0
+1998,Dayananda Saraswati,63635,Dayananda Saraswati,0,2,2,1,0
+2011,Jan Swammerdam,36910,Jan Swammerdam,0,2,2,1,0
+2013,Ruthenium,46616,Ruthenium,0,1,1,1,0
+2018,Suffix,19177,Suffix,0,1,1,1,0
+2019,Luc Montagnier,80807,Luc Montagnier,0,2,2,1,0
+2023,Sun Simiao,22849,Sun Simiao,0,2,2,1,0
+2035,Hermetica,61740,Hermetica,0,1,1,1,0
+2038,Robert Thirsk,62330,Robert Thirsk,0,2,2,1,0
+2045,Amlodipine,44068,Amlodipine,0,1,1,1,0
+2048,Albert Ellis,63720,Albert Ellis,0,2,2,1,0
+2053,Studio 54,57405,Studio 54,0,2,2,1,0
+2058,Germanium,53083,Germanium,0,1,1,1,0
+2060,Balanitis,19295,Balanitis,0,1,1,1,0
+2067,Calorie,22369,Calorie,0,1,1,1,0
+2068,Marsilio Ficino,52624,Marsilio Ficino,0,2,2,1,0
+2070,Aneurin Bevan,83668,Aneurin Bevan,0,2,2,1,0
+2075,Neidan,37468,Neidan,0,1,1,1,0
+2080,Durga,70566,Durga,0,1,1,1,0
+2081,Casino Royale ,69591,Casino Royale ,0,2,2,1,0
+2082,Haloperidol,82502,Haloperidol,0,1,1,1,0
+2086,Hepatitis C,67785,Hepatitis C,0,2,2,1,0
+2101,Robert Edwards ,30603,Robert Edwards ,0,2,2,1,0
+2108,Freddie Mercury,98450,Freddie Mercury,0,2,2,1,0
+2109,Saccharomyces,17455,Saccharomyces,0,1,1,1,0
+2110,Myc,38837,Myc,0,1,1,1,0
+2119,Aquifer,42772,Aquifer,0,1,1,1,0
+2133,Verbena,30111,Verbena,0,1,1,1,0
+2134,Clobazam,37962,Clobazam,0,1,1,1,0
+2139,Centers for Disease Control and Prevention,69656,Centers for Disease Control and Prevention,0,6,6,1,0
+2142,Frederick Reines,52442,Frederick Reines,0,2,2,1,0
+2146,Martha Roby,37722,Martha Roby,0,2,2,1,0
+2147,Feng shui,76869,Feng shui,0,2,2,1,0
+2148,Magnetic resonance imaging,64523,Magnetic resonance imaging,0,3,3,1,0
+2151,Carcinoma in situ,18351,Carcinoma in situ,0,3,3,1,0
+2152,Epirus ,42219,Epirus ,0,1,1,1,0
+2160,Vanderbilt University,93715,Vanderbilt University,0,2,2,1,0
+2167,International Chemical Identifier,29441,International Chemical Identifier,0,3,3,1,0
+2170,Emil Theodor Kocher,47692,Emil Theodor Kocher,0,3,3,1,0
+2176,Hexanol,10447,Hexanol,0,1,1,1,0
+2177,Hugo Theorell,22757,Hugo Theorell,0,2,2,1,0
+2193,Trypanosoma brucei,51572,Trypanosoma brucei,0,2,2,1,0
+2203,Gonadotropin-releasing hormone,40859,Gonadotropin-releasing hormone,0,2,2,1,0
+2207,Pretzel,42036,Pretzel,0,1,1,1,0
+2213,Carbachol,29075,Carbachol,0,1,1,1,0
+2224,Agouti-related peptide,28413,Agouti-related peptide,0,2,2,1,0
+2227,Simon van der Meer,25423,Simon van der Meer,0,4,4,1,0
+2230,Prototype,39503,Prototype,0,1,1,1,0
+2232,Transferase,47734,Transferase,0,1,1,1,0
+2244,Firocoxib,24052,Firocoxib,0,1,1,1,0
+2245,Cytomegalovirus,32422,Cytomegalovirus,0,1,1,1,0
+2246,Robin Warren,25003,Robin Warren,0,2,2,1,0
+2248,HIV Drug Resistance Database,15796,HIV Drug Resistance Database,0,4,4,1,0
+2254,Shirley Temple ,15314,Shirley Temple ,0,2,2,1,0
+2255,Louis Harold Gray,19177,Louis Harold Gray,0,3,3,1,0
+2260,Ethinylestradiol,96252,Ethinylestradiol,0,1,1,1,0
+2262,John Belushi,47718,John Belushi,0,2,2,1,0
+2266,Barnidipine,22387,Barnidipine,0,1,1,1,0
+2271,Ligand ,29133,Ligand ,0,1,1,1,0
+2272,Erasmus Darwin,53907,Erasmus Darwin,0,2,2,1,0
+2275,Ultraviolet,81350,Ultraviolet,0,1,1,1,0
+2277,Robert Browning,55553,Robert Browning,0,2,2,1,0
+2291,Henry Moseley,32619,Henry Moseley,0,2,2,1,0
+2295,Niels Ryberg Finsen,28086,Niels Ryberg Finsen,0,3,3,1,0
+2302,P ,21802,P ,0,1,1,1,0
+2323,Johannes Kepler,101163,Johannes Kepler,0,2,2,1,0
+2326,Liraglutide,30710,Liraglutide,0,1,1,1,0
+2330,Danazol,70300,Danazol,0,1,1,1,0
+2331,Jenever,27506,Jenever,0,1,1,1,0
+2334,Paronychia,33572,Paronychia,0,1,1,1,0
+2340,Jennifer Coolidge,36783,Jennifer Coolidge,0,2,2,1,0
+2347,Julius Caesar,104306,Julius Caesar,0,2,2,1,0
+2350,Aage Bohr,38956,Aage Bohr,0,2,2,1,0
+2353,Europium,41681,Europium,0,1,1,1,0
+2356,Gavin Newsom,99866,Gavin Newsom,0,2,2,1,0
+2359,Chloroform,66158,Chloroform,0,1,1,1,0
+2363,Harald zur Hausen,34231,Harald zur Hausen,0,3,3,1,0
+2370,Facsimile,16101,Facsimile,0,1,1,1,0
+2372,Allvar Gullstrand,24312,Allvar Gullstrand,0,2,2,1,0
+2378,Ramakrishna,134007,Ramakrishna,0,1,1,1,0
+2380,Haemophilus ducreyi,18993,Haemophilus ducreyi,0,2,2,1,0
+2386,George Gaylord Simpson,32931,George Gaylord Simpson,0,3,3,1,0
+2389,Catecholamine,30123,Catecholamine,0,1,1,1,0
+2391,Temozolomide,35898,Temozolomide,0,1,1,1,0
+2396,Michael Fincke,61893,Michael Fincke,0,2,2,1,0
+2408,Sandra Magnus,58563,Sandra Magnus,0,2,2,1,0
+2410,Kemi,25720,Kemi,0,1,1,1,0
+2422,Odds ratio,57099,Odds ratio,0,2,2,1,0
+2423,Menthol,58595,Menthol,0,1,1,1,0
+2426,Pethidine,68274,Pethidine,0,1,1,1,0
+2428,Theobromine,34759,Theobromine,0,1,1,1,0
+2429,John Wesley,145499,John Wesley,0,2,2,1,0
+2430,Koinon,12267,Koinon,0,1,1,1,0
+2434,Purine,29362,Purine,0,1,1,1,0
+2435,Vis ,38747,Vis ,0,1,1,1,0
+2449,New Horizons,134641,New Horizons,0,2,2,1,0
+2456,Phoenix Suns,97736,Phoenix Suns,0,2,2,1,0
+2460,Azhdarchoidea,28538,Azhdarchoidea,0,1,1,1,0
+2470,Lambert ,12884,Lambert ,0,1,1,1,0
+2473,Aquifer,42772,Aquifer,0,1,1,1,0
+2477,George Whipple,42121,George Whipple,0,2,2,1,0
+2480,Thymine,21721,Thymine,0,1,1,1,0
+2482,Bangalore,118627,Bangalore,0,1,1,1,0
+2491,Minoxidil,41168,Minoxidil,0,1,1,1,0
+2493,Triclosan,59765,Triclosan,0,1,1,1,0
+2496,Acute respiratory distress syndrome,47450,Acute respiratory distress syndrome,0,4,4,1,0
+2503,Agelenopsis aperta,23268,Agelenopsis aperta,0,2,2,1,0
+2508,Paramahansa Yogananda,87610,Paramahansa Yogananda,0,2,2,1,0
+2509,Boris Johnson,225413,Boris Johnson,0,2,2,1,0
+2512,Isamu Akasaki,34512,Isamu Akasaki,0,2,2,1,0
+2528,Ebola,104724,Ebola,0,1,1,1,0
+2534,Atrium ,27350,Atrium ,0,1,1,1,0
+2537,Frederick Chapman Robbins,24157,Frederick Chapman Robbins,0,3,3,1,0
+2540,Howard Florey,39214,Howard Florey,0,2,2,1,0
+2541,India,174436,India,0,1,1,1,0
+2545,Albert Fert,25843,Albert Fert,0,2,2,1,0
+2550,Fairphone,18864,Fairphone,0,1,1,1,0
+2566,Pramana,53179,Pramana,0,1,1,1,0
+2571,Malathion,31568,Malathion,0,1,1,1,0
+2576,Sewall Wright,41593,Sewall Wright,0,2,2,1,0
+2577,Bed,47085,Bed,0,1,1,1,0
+2594,Ainhum,24629,Ainhum,0,1,1,1,0
+2605,Brunei,109114,Brunei,0,1,1,1,0
+2614,Amisulpride,58769,Amisulpride,0,1,1,1,0
+2616,Tensor,75730,Tensor,0,1,1,1,0
+2617,Labetalol,32699,Labetalol,0,1,1,1,0
+2618,International Bartenders Association,17670,International Bartenders Association,0,3,3,1,0
+2623,Receptor ,39459,Receptor ,0,1,1,1,0
+2630,Ronald Ross,53267,Ronald Ross,0,2,2,1,0
+2649,Drug Policy Alliance,31308,Drug Policy Alliance,0,3,3,1,0
+2652,Tetanus,44455,Tetanus,0,1,1,1,0
+2666,5-MeO-DMT,52115,5-MeO-DMT,0,1,1,1,0
+2673,Candida ,23049,Candida ,0,1,1,1,0
+2675,Smart grid,99546,Smart grid,0,2,2,1,0
+2684,Bletchley Park,80814,Bletchley Park,0,2,2,1,0
+2686,Latanoprost,31267,Latanoprost,0,1,1,1,0
+2687,Anapa,34357,Anapa,0,1,1,1,0
+2694,ELISA,37406,ELISA,0,1,1,1,0
+2697,Medtronic,36965,Medtronic,0,1,1,1,0
+2698,Triflupromazine,56311,Triflupromazine,0,1,1,1,0
+2699,Works Progress Administration,65931,Works Progress Administration,0,3,3,1,0
+2704,Jacques Monod,37512,Jacques Monod,0,2,2,1,0
+2705,Kary Mullis,45148,Kary Mullis,0,2,2,1,0
+2708,Atlas ,29895,Atlas ,0,1,1,1,0
+2713,Michael Cera,45291,Michael Cera,0,2,2,1,0
+2714,The Wolf Man ,36841,The Wolf Man ,0,3,3,1,0
+2719,Triatoma infestans,19326,Triatoma infestans,0,2,2,1,0
+2724,Yakitori,26911,Yakitori,0,1,1,1,0
+2734,Gal ,18661,Gal ,0,1,1,1,0
+2739,Transient global amnesia,33582,Transient global amnesia,0,3,3,1,0
+2742,Trogir,39223,Trogir,0,1,1,1,0
+2745,Thomas Beecham ,16591,Thomas Beecham ,0,2,2,1,0
+2746,Eucestoda,28977,Eucestoda,0,1,1,1,0
+2755,Pigment,37144,Pigment,0,1,1,1,0
+2756,Giovanni Battista Morgagni,36693,Giovanni Battista Morgagni,0,3,3,1,0
+2763,Very low frequency,47420,Very low frequency,0,3,3,1,0
+2766,Rocky Mountain spotted fever,43525,Rocky Mountain spotted fever,0,4,4,1,0
+2768,Gallium,64086,Gallium,0,1,1,1,0
+2771,Peter Paul Rubens,57958,Peter Paul Rubens,0,3,3,1,0
+2776,Flumazenil,32820,Flumazenil,0,1,1,1,0
+2777,Losartan,30339,Losartan,0,1,1,1,0
+2780,Ultraviolet,81310,Ultraviolet,0,1,1,1,0
+2799,Mycobacterium tuberculosis,43556,Mycobacterium tuberculosis,0,2,2,1,0
+2809,Enrique Simonet,17461,Enrique Simonet,0,2,2,1,0
+2811,Stegosaurus,81109,Stegosaurus,0,1,1,1,0
+2818,Enterococcus,18667,Enterococcus,0,1,1,1,0
+2825,Christine Ladd-Franklin,30739,Christine Ladd-Franklin,0,2,2,1,0
+2836,Bronchitis,35664,Bronchitis,0,1,1,1,0
+2838,Flow ,54063,Flow ,0,1,1,1,0
+2843,Graffiti,82309,Graffiti,0,1,1,1,0
+2849,John Napier,35563,John Napier,0,2,2,1,0
+2851,Botswana,114153,Botswana,0,1,1,1,0
+2855,Helicobacter pylori,83351,Helicobacter pylori,0,2,2,1,0
+2857,Iminium,11959,Iminium,0,1,1,1,0
+2858,Sense ,24319,Sense ,0,1,1,1,0
+2861,Matthias Maurer,21232,Matthias Maurer,0,2,2,1,0
+2863,Schizosaccharomyces pombe,37626,Schizosaccharomyces pombe,0,2,2,1,0
+2864,Joseph Erlanger,27328,Joseph Erlanger,0,2,2,1,0
+2867,Cytokine,39145,Cytokine,0,1,1,1,0
+2869,Lahore,111403,Lahore,0,1,1,1,0
+2873,Quinapril,22562,Quinapril,0,1,1,1,0
+2876,Vacuole,28586,Vacuole,0,1,1,1,0
+2883,Ramon Llull,60192,Ramon Llull,0,2,2,1,0
+2885,Tacrolimus,42125,Tacrolimus,0,1,1,1,0
+2889,Sonar,131532,Sonar,0,1,1,1,0
+2903,Hydroxylysine,13444,Hydroxylysine,0,1,1,1,0
+2910,Ouzo,30309,Ouzo,0,1,1,1,0
+2914,Mahabharata,85395,Mahabharata,0,1,1,1,0
+2918,Louis de Broglie,49258,Louis de Broglie,0,3,3,1,0
+2928,James Joyce,139665,James Joyce,0,2,2,1,0
+2931,Glycoside,26656,Glycoside,0,1,1,1,0
+2932,Myocarditis,40020,Myocarditis,0,1,1,1,0
+2936,Otto Loewi,32460,Otto Loewi,0,2,2,1,0
+2950,Shakti,30287,Shakti,0,1,1,1,0
+2955,Mefloquine,32839,Mefloquine,0,1,1,1,0
+2956,Samkhya,89316,Samkhya,0,1,1,1,0
+2959,Benin,84500,Benin,0,1,1,1,0
+2966,"International Classification of Functioning, Disability and Health",28752,"International Classification of Functioning, Disability and Health",0,7,7,1,0
+2967,Ultraviolet,81380,Ultraviolet,0,1,1,1,0
+2968,Orlistat,39870,Orlistat,0,1,1,1,0
+2969,Flooding ,13482,Flooding ,0,1,1,1,0
+2978,Yajna,44238,Yajna,0,1,1,1,0
+2981,International Classification of Diseases for Oncology,107540,International Classification of Diseases for Oncology,0,6,6,1,0
+2996,Pontefract,53103,Pontefract,0,1,1,1,0
+2999,Psoriasis,73365,Psoriasis,0,1,1,1,0
+3002,Carditis,17197,Carditis,0,1,1,1,0
+3007,Dasatinib,39844,Dasatinib,0,1,1,1,0
+3010,Epaminondas,72632,Epaminondas,0,1,1,1,0
+3013,Reserpine,36530,Reserpine,0,1,1,1,0
+3023,Nirvana ,63000,Nirvana ,0,1,1,1,0
+3030,Muridae,24023,Muridae,0,1,1,1,0
+3031,Agomelatine,53820,Agomelatine,0,1,1,1,0
+3038,Menarche,38997,Menarche,0,1,1,1,0
+3046,Glasgow,157609,Glasgow,0,1,1,1,0
+3048,Nadia Anjuman,27189,Nadia Anjuman,0,2,2,1,0
+3050,Sozopol,37639,Sozopol,0,1,1,1,0
+3051,Antisthenes,42670,Antisthenes,0,1,1,1,0
+3056,Ban Ki-moon,82495,Ban Ki-moon,0,2,2,1,0
+3058,Rachel Carson,95213,Rachel Carson,0,2,2,1,0
+3060,Xanthine,34211,Xanthine,0,1,1,1,0
+3062,Annalen der Physik,19630,Annalen der Physik,0,3,3,1,0
+3063,Algebra,49978,Algebra,0,1,1,1,0
+3064,Khan Academy,25194,Khan Academy,0,2,2,1,0
+3068,Malaise,16111,Malaise,0,1,1,1,0
+3081,Carprofen,33089,Carprofen,0,1,1,1,0
+3087,Palmitoylethanolamide,40806,Palmitoylethanolamide,0,1,1,1,0
+3091,Bodleian Library,43835,Bodleian Library,0,2,2,1,0
+3097,Zhejiang Huayou Cobalt,12174,Zhejiang Huayou Cobalt,0,3,3,1,0
+3108,Microfilament,30212,Microfilament,0,1,1,1,0
+3119,Robert Coleman Richardson,23263,Robert Coleman Richardson,0,3,3,1,0
+3120,Rickettsia,26979,Rickettsia,0,1,1,1,0
+3127,Works Progress Administration,65733,Works Progress Administration,0,3,3,1,0
+3129,Fructosamine,21709,Fructosamine,0,1,1,1,0
+3131,Lactose,28163,Lactose,0,1,1,1,0
+3135,Haemophilus influenzae,36305,Haemophilus influenzae,0,2,2,1,0
+3138,Monoclonal gammopathy of undetermined significance,27358,Monoclonal gammopathy of undetermined significance,0,5,5,1,0
+3142,The Daily Telegraph,72745,The Daily Telegraph,0,3,3,1,0
+3143,Staphylococcus saprophyticus,19780,Staphylococcus saprophyticus,0,2,2,1,0
+3155,Cofactor ,33860,Cofactor ,0,1,1,1,0
+3159,Rigveda,88051,Rigveda,0,1,1,1,0
+3163,Sigmund Freud,167342,Sigmund Freud,0,2,2,1,0
+3164,Anakinra,27991,Anakinra,0,1,1,1,0
+3167,Fatigue,31473,Fatigue,0,1,1,1,0
+3170,Nicotiana,22470,Nicotiana,0,1,1,1,0
+3173,Sensodyne,18767,Sensodyne,0,1,1,1,0
+3174,Flux ,49091,Flux ,0,1,1,1,0
+3175,George Emil Palade,45742,George Emil Palade,0,3,3,1,0
+3176,Ferdowsi,50017,Ferdowsi,0,1,1,1,0
+3179,National Institute of Standards and Technology,46381,National Institute of Standards and Technology,0,6,6,1,0
+3192,Qiyan,27097,Qiyan,0,1,1,1,0
+3194,Lithium ,42634,Lithium ,0,1,1,1,0
+3195,Kees de Jager,27740,Kees de Jager,0,3,3,1,0
+3206,DMOZ,45570,DMOZ,0,1,1,1,0
+3207,Fauna Europaea,12079,Fauna Europaea,0,2,2,1,0
+3212,Oseltamivir,50876,Oseltamivir,0,1,1,1,0
+3221,Capecitabine,26478,Capecitabine,0,1,1,1,0
+3222,Stephen Harper,118643,Stephen Harper,0,2,2,1,0
+3224,Rudaki,37265,Rudaki,0,1,1,1,0
+3227,Dubnium,55473,Dubnium,0,1,1,1,0
+3229,Bert Sakmann,25676,Bert Sakmann,0,2,2,1,0
+3234,Scrapie,39079,Scrapie,0,1,1,1,0
+3241,Vitallium,13146,Vitallium,0,1,1,1,0
+3248,Aspergillus flavus,26896,Aspergillus flavus,0,2,2,1,0
+3266,Charles Sanders Peirce,127185,Charles Sanders Peirce,0,3,3,1,0
+3267,Leucine,28530,Leucine,0,1,1,1,0
+3269,L-selectride,12534,L-selectride,0,1,1,1,0
+3296,Stardust Memories,31701,Stardust Memories,0,2,2,1,0
+3298,Mean corpuscular volume,21613,Mean corpuscular volume,0,3,3,1,0
+3299,Jabir ibn Hayyan,73375,Jabir ibn Hayyan,0,3,3,1,0
+3302,Cider,90825,Cider,0,1,1,1,0
+3304,Serositis,14028,Serositis,0,1,1,1,0
+3305,Mixed connective tissue disease,31626,Mixed connective tissue disease,0,4,4,1,0
+3328,Myasthenia gravis,39697,Myasthenia gravis,0,2,2,1,0
+3329,Garrett Reisman,57879,Garrett Reisman,0,2,2,1,0
+3331,Robert Hooke,81212,Robert Hooke,0,2,2,1,0
+3332,Corticotropin-releasing hormone,34868,Corticotropin-releasing hormone,0,2,2,1,0
+3333,Aorta,33294,Aorta,0,1,1,1,0
+3334,Hippeis,16912,Hippeis,0,1,1,1,0
+3340,Parmenides,70802,Parmenides,0,1,1,1,0
+3345,Stazione Zoologica Anton Dohrn,26652,Stazione Zoologica Anton Dohrn,0,4,4,1,0
+3349,Konrad Emil Bloch,36380,Konrad Emil Bloch,0,3,3,1,0
+3354,Paracelsus ,16640,Paracelsus ,0,1,1,1,0
+3357,Louvre,123005,Louvre,0,1,1,1,0
+3358,Palonosetron,36816,Palonosetron,0,1,1,1,0
+3367,Martin Ryle,34749,Martin Ryle,0,2,2,1,0
+3372,Midazolam,62530,Midazolam,0,1,1,1,0
+3376,Nederlandse Onderwatersport Bond,57374,Nederlandse Onderwatersport Bond,0,3,3,1,0
+3377,Heart ,15894,Heart ,0,1,1,1,0
+3384,Roehampton,39741,Roehampton,0,1,1,1,0
+3385,Ganesh Chaturthi,50130,Ganesh Chaturthi,0,2,2,1,0
+3392,Hans Eysenck,59047,Hans Eysenck,0,2,2,1,0
+3395,Femme fatale,30865,Femme fatale,0,2,2,1,0
+3401,Gallup ,36613,Gallup ,0,1,1,1,0
+3403,Dubnium,55473,Dubnium,0,1,1,1,0
+3413,Jiangxi,52387,Jiangxi,0,1,1,1,0
+3416,Thermistor,42083,Thermistor,0,1,1,1,0
+3420,Matthew Boulton,67042,Matthew Boulton,0,2,2,1,0
+3421,Zhang Zhongjing,24940,Zhang Zhongjing,0,2,2,1,0
+3423,Jack Kilby,43330,Jack Kilby,0,2,2,1,0
+3433,Dahae,29082,Dahae,0,1,1,1,0
+3434,Septum transversum,16349,Septum transversum,0,2,2,1,0
+3439,Good manufacturing practice,30315,Good manufacturing practice,0,3,3,1,0
+3441,Rensselaer Polytechnic Institute,88437,Rensselaer Polytechnic Institute,0,3,3,1,0
+3446,Giordano Bruno,76258,Giordano Bruno,0,2,2,1,0
+3453,Chandra X-ray Observatory,43980,Chandra X-ray Observatory,0,3,3,1,0
+3456,Cryptosporidium,31169,Cryptosporidium,0,1,1,1,0
+3459,Ankara,110490,Ankara,0,1,1,1,0
+3464,PubChem,19315,PubChem,0,1,1,1,0
+3465,Saul Perlmutter,36804,Saul Perlmutter,0,2,2,1,0
+3468,Glycoside,26656,Glycoside,0,1,1,1,0
+3473,Piperidine,21005,Piperidine,0,1,1,1,0
+3476,Sensu,20374,Sensu,0,1,1,1,0
+3481,Paracelsus,76368,Paracelsus,0,1,1,1,0
+3484,Nicolaes Tulp,23968,Nicolaes Tulp,0,2,2,1,0
+3485,Atrium ,27246,Atrium ,0,1,1,1,0
+3488,Transit-oriented development,54539,Transit-oriented development,0,2,2,1,0
+3491,Information retrieval,36617,Information retrieval,0,2,2,1,0
+3498,Heat pipe,59413,Heat pipe,0,2,2,1,0
+3499,Abbas Kiarostami,82478,Abbas Kiarostami,0,2,2,1,0
+3509,Ligand ,29147,Ligand ,0,1,1,1,0
+3522,John Gurdon,32431,John Gurdon,0,2,2,1,0
+3524,Lichen planus,55976,Lichen planus,0,2,2,1,0
+3533,SERCA,17042,SERCA,0,1,1,1,0
+3537,Rad ,23366,Rad ,0,1,1,1,0
+3539,Sherry,47160,Sherry,0,1,1,1,0
+3548,Charles Glover Barkla,24138,Charles Glover Barkla,0,3,3,1,0
+3549,Hypothalamus,45968,Hypothalamus,0,1,1,1,0
+3550,Placenta,37587,Placenta,0,1,1,1,0
+3553,Axolotl,34225,Axolotl,0,1,1,1,0
+3554,Emir,21264,Emir,0,1,1,1,0
+3559,Herbert Spencer,94028,Herbert Spencer,0,2,2,1,0
+3561,Mediastinum,25785,Mediastinum,0,1,1,1,0
+3566,Caduceus,45953,Caduceus,0,1,1,1,0
+3567,Tsung-Dao Lee,51603,Tsung-Dao Lee,0,2,2,1,0
+3568,Ergine,70707,Ergine,0,1,1,1,0
+3574,Manne Siegbahn,24472,Manne Siegbahn,0,2,2,1,0
+3583,Erechtheion,41319,Erechtheion,0,1,1,1,0
+3584,Al-Biruni,73790,Al-Biruni,0,1,1,1,0
+3589,Strychnine,49921,Strychnine,0,1,1,1,0
+3592,Rumford Medal,35598,Rumford Medal,0,2,2,1,0
+3594,Sushruta,22715,Sushruta,0,1,1,1,0
+3595,Isoleucine,22407,Isoleucine,0,1,1,1,0
+3598,Herbicide,77870,Herbicide,0,1,1,1,0
+3612,Food and Drug Administration,89267,Food and Drug Administration,0,4,4,1,0
+3615,Ushas,32712,Ushas,0,1,1,1,0
+3625,Federal Bureau of Investigation,108715,Federal Bureau of Investigation,0,4,4,1,0
+3632,Taormina,40637,Taormina,0,1,1,1,0
+3637,Vasa vasorum,20043,Vasa vasorum,0,2,2,1,0
+3651,Lycurgus ,43541,Lycurgus ,0,1,1,1,0
+3658,Christian Rosenkreuz,23505,Christian Rosenkreuz,0,2,2,1,0
+3670,Pixel,35932,Pixel,0,1,1,1,0
+3676,Robert Ballard,86113,Robert Ballard,0,2,2,1,0
+3680,Antioxidant,51173,Antioxidant,0,1,1,1,0
+3683,Commandaria,25113,Commandaria,0,1,1,1,0
+3688,Klaus Hasselmann,34979,Klaus Hasselmann,0,2,2,1,0
+3690,Piroxicam,29695,Piroxicam,0,1,1,1,0
+3695,Pimozide,55896,Pimozide,0,1,1,1,0
+3719,The American Journal of Cardiology,14144,The American Journal of Cardiology,0,5,5,1,0
+3726,Elize Ryd,28657,Elize Ryd,0,2,2,1,0
+3731,Vulva,71831,Vulva,0,1,1,1,0
+3739,Robert Louis Stevenson,95844,Robert Louis Stevenson,0,3,3,1,0
+3742,Isidor Isaac Rabi,71163,Isidor Isaac Rabi,0,3,3,1,0
+3743,Mahavatar Babaji,50345,Mahavatar Babaji,0,2,2,1,0
+3745,Stellarator,69620,Stellarator,0,1,1,1,0
+3746,Iloprost,35745,Iloprost,0,1,1,1,0
+3748,Protamine,23427,Protamine,0,1,1,1,0
+3754,Xanthine,34399,Xanthine,0,1,1,1,0
+3757,Melasma,33084,Melasma,0,1,1,1,0
+3759,Abbott Laboratories,48832,Abbott Laboratories,0,2,2,1,0
+3765,Charvaka,65702,Charvaka,0,1,1,1,0
+3771,Humber Bridge,37746,Humber Bridge,0,2,2,1,0
+3783,Tunica intima,19827,Tunica intima,0,2,2,1,0
+3790,Biomarker,30069,Biomarker,0,1,1,1,0
+3792,Gilbert ,12144,Gilbert ,0,1,1,1,0
+3794,Brahmacharya,53528,Brahmacharya,0,1,1,1,0
+3798,Qazvin,66086,Qazvin,0,1,1,1,0
+3802,Dutasteride,40677,Dutasteride,0,1,1,1,0
+3805,CSL Limited,37355,CSL Limited,0,2,2,1,0
+3808,Arak ,27860,Arak ,0,1,1,1,0
+3809,Galvanometer,38338,Galvanometer,0,1,1,1,0
+3814,Futon,29556,Futon,0,1,1,1,0
+3822,Hermetica,61814,Hermetica,0,1,1,1,0
+3824,Placenta praevia,30533,Placenta praevia,0,2,2,1,0
+3827,Docetaxel,50240,Docetaxel,0,1,1,1,0
+3838,Johannes Stark,33559,Johannes Stark,0,2,2,1,0
+3840,Luigi Galvani,32024,Luigi Galvani,0,2,2,1,0
+3841,Plasmodium malariae,36286,Plasmodium malariae,0,2,2,1,0
+3860,Jennifer Doudna,65343,Jennifer Doudna,0,2,2,1,0
+3862,MathWorld,16650,MathWorld,0,1,1,1,0
+3864,New Jersey,140463,New Jersey,0,2,2,1,0
+3865,Marine Biological Laboratory,40560,Marine Biological Laboratory,0,3,3,1,0
+3866,Damascus,110648,Damascus,0,1,1,1,0
+3875,David Hilbert,56607,David Hilbert,0,2,2,1,0
+3879,Benzodiazepine,104638,Benzodiazepine,0,1,1,1,0
+3898,Salvia divinorum,113854,Salvia divinorum,0,2,2,1,0
+3900,Oliver Smithies,31219,Oliver Smithies,0,2,2,1,0
+3908,CRISPR,73910,CRISPR,0,1,1,1,0
+3910,Levetiracetam,29324,Levetiracetam,0,1,1,1,0
+3918,Stridor,19332,Stridor,0,1,1,1,0
+3924,Zolpidem,52827,Zolpidem,0,1,1,1,0
+3929,Antony Hewish,28036,Antony Hewish,0,2,2,1,0
+3932,Microsoft,98898,Microsoft,0,1,1,1,0
+3940,Misoprostol,47978,Misoprostol,0,1,1,1,0
+3941,Ramlila,52270,Ramlila,0,1,1,1,0
+3950,Robert Graves,57940,Robert Graves,0,2,2,1,0
+3952,Dover Publications,19875,Dover Publications,0,2,2,1,0
+3969,Orujo,21004,Orujo,0,1,1,1,0
+3970,Shiva,128098,Shiva,0,1,1,1,0
+3971,Gottfried Wilhelm Leibniz,152386,Gottfried Wilhelm Leibniz,0,3,3,1,0
+3972,Melasma,33221,Melasma,0,1,1,1,0
+3973,Clonidine,45968,Clonidine,0,1,1,1,0
+3981,Edward Mills Purcell,29604,Edward Mills Purcell,0,3,3,1,0
+3983,Mantra,90425,Mantra,0,1,1,1,0
+3988,Alchornea,17858,Alchornea,0,1,1,1,0
+3989,Alasdair MacIntyre,59535,Alasdair MacIntyre,0,2,2,1,0
+3994,Bupropion,86265,Bupropion,0,1,1,1,0
+4001,Beerse,20067,Beerse,0,1,1,1,0
+4014,Clifford Shull,27643,Clifford Shull,0,2,2,1,0
+4019,Gran Chaco,37790,Gran Chaco,0,2,2,1,0
+4026,Zoological Society of London,26209,Zoological Society of London,0,4,4,1,0
+4027,Athanor,12389,Athanor,0,1,1,1,0
+4034,Fatigue,31334,Fatigue,0,1,1,1,0
+4037,Orchitis,18693,Orchitis,0,1,1,1,0
+4039,Recombinant DNA,36348,Recombinant DNA,0,2,2,1,0
+4042,Gap junction,42686,Gap junction,0,2,2,1,0
+4044,Uranium,91827,Uranium,0,1,1,1,0
+4045,Carl Wieman,29499,Carl Wieman,0,2,2,1,0
+4048,Kapila,59784,Kapila,0,1,1,1,0
+4060,Enrico Fermi,100556,Enrico Fermi,0,2,2,1,0
+4065,Guatemala,144241,Guatemala,0,1,1,1,0
+4075,Flora Europaea,19329,Flora Europaea,0,2,2,1,0
+4079,Dermatomyositis,29774,Dermatomyositis,0,1,1,1,0
+4080,Hadith,74476,Hadith,0,1,1,1,0
+4085,Tai chi,65389,Tai chi,0,2,2,1,0
+4087,Aldicarb,30519,Aldicarb,0,1,1,1,0
+4093,Wayback Machine,42738,Wayback Machine,0,2,2,1,0
+4094,Tafluprost,24881,Tafluprost,0,1,1,1,0
+4095,Cytokine,39285,Cytokine,0,1,1,1,0
+4099,Tolterodine,36225,Tolterodine,0,1,1,1,0
+4114,Ultraviolet,81203,Ultraviolet,0,1,1,1,0
+4117,Calorie,22383,Calorie,0,1,1,1,0
+4126,Quality-adjusted life year,30060,Quality-adjusted life year,0,3,3,1,0
+4128,Baclofen,42334,Baclofen,0,1,1,1,0
+4129,Pyelogram,29527,Pyelogram,0,1,1,1,0
+4144,Internet Archive,91420,Internet Archive,0,2,2,1,0
+4146,Ben Feringa,36883,Ben Feringa,0,2,2,1,0
+4153,John Snow,44201,John Snow,0,2,2,1,0
+4157,Sclera,28093,Sclera,0,1,1,1,0
+4159,Public safety diving,53974,Public safety diving,0,3,3,1,0
+4160,Gina Lollobrigida,40439,Gina Lollobrigida,0,2,2,1,0
+4164,Cholecystitis,35858,Cholecystitis,0,1,1,1,0
+4172,Nicander,18891,Nicander,0,1,1,1,0
+4176,Herbert Kroemer,25102,Herbert Kroemer,0,2,2,1,0
+4177,Number needed to treat,27866,Number needed to treat,0,4,4,1,0
+4182,Amnion,23033,Amnion,0,1,1,1,0
+4184,Nitrox,88588,Nitrox,0,1,1,1,0
+4192,Genotype,30295,Genotype,0,1,1,1,0
+4201,Coca-Cola,83192,Coca-Cola,0,1,1,1,0
+4205,Diol,18521,Diol,0,1,1,1,0
+4207,Tim Hunt,44756,Tim Hunt,0,2,2,1,0
+4210,Ytterbium,42168,Ytterbium,0,1,1,1,0
+4213,IBM,73986,IBM,0,1,1,1,0
+4215,Azathioprine,41940,Azathioprine,0,1,1,1,0
+4238,Heraclea Pontica,38857,Heraclea Pontica,0,2,2,1,0
+4244,Togo,76034,Togo,0,1,1,1,0
+4263,New Scientist,26241,New Scientist,0,2,2,1,0
+4267,Giorgio Parisi,32091,Giorgio Parisi,0,2,2,1,0
+4268,BRCA1,57724,BRCA1,0,1,1,1,0
+4283,Avicenna,124585,Avicenna,0,1,1,1,0
+4285,Acetyl-CoA,39778,Acetyl-CoA,0,1,1,1,0
+4286,Jarvis Cocker,43855,Jarvis Cocker,0,2,2,1,0
+4291,Risus sardonicus,10832,Risus sardonicus,0,2,2,1,0
+4292,Philippe Pinel,56769,Philippe Pinel,0,2,2,1,0
+4297,Endomysium,17000,Endomysium,0,1,1,1,0
+4299,Clitellata,18403,Clitellata,0,1,1,1,0
+4304,Mirtazapine,83884,Mirtazapine,0,1,1,1,0
+4309,Xenon,92347,Xenon,0,1,1,1,0
+4310,Hunan,55405,Hunan,0,1,1,1,0
+4318,Eflornithine,37786,Eflornithine,0,1,1,1,0
+4323,Nicotine,89912,Nicotine,0,1,1,1,0
+4326,Pergamon,98407,Pergamon,0,1,1,1,0
+4329,Bifidobacterium,29614,Bifidobacterium,0,1,1,1,0
+4341,Gerald Durrell,62826,Gerald Durrell,0,2,2,1,0
+4343,Massage,72171,Massage,0,1,1,1,0
+4344,Porphyromonas gingivalis,36416,Porphyromonas gingivalis,0,2,2,1,0
+4351,Almagest,42069,Almagest,0,1,1,1,0
+4354,Isaac Newton,131782,Isaac Newton,0,2,2,1,0
+4356,Paul Dirac,70640,Paul Dirac,0,2,2,1,0
+4357,Fexofenadine,32144,Fexofenadine,0,1,1,1,0
+4359,Gunshot residue,22980,Gunshot residue,0,2,2,1,0
+4360,Piperine,26959,Piperine,0,1,1,1,0
+4363,Extremely low frequency,37959,Extremely low frequency,0,3,3,1,0
+4367,Creatinine,30662,Creatinine,0,1,1,1,0
+4380,Veratrum,19655,Veratrum,0,1,1,1,0
+4381,Drambuie,23138,Drambuie,0,1,1,1,0
+4386,Clostridium perfringens,36254,Clostridium perfringens,0,2,2,1,0
+4387,Tupuxuara,30525,Tupuxuara,0,1,1,1,0
+4392,Charles Thomson Rees Wilson,27822,Charles Thomson Rees Wilson,0,4,4,1,0
+4394,Leflunomide,27016,Leflunomide,0,1,1,1,0
+4404,14-Methoxymetopon,24911,14-Methoxymetopon,0,1,1,1,0
+4407,Guglielmo Marconi,82100,Guglielmo Marconi,0,2,2,1,0
+4408,Game of Thrones,131151,Game of Thrones,0,3,3,1,0
+4410,Anaximander,68271,Anaximander,0,1,1,1,0
+4411,Bacillus anthracis,38887,Bacillus anthracis,0,2,2,1,0
+4420,Sherlock Holmes,125026,Sherlock Holmes,0,2,2,1,0
+4435,Osteoblast,33982,Osteoblast,0,1,1,1,0
+4439,James Joseph Sylvester,35047,James Joseph Sylvester,0,3,3,1,0
+4440,Ibn Zuhr,29624,Ibn Zuhr,0,2,2,1,0
+4441,Thoracic outlet syndrome,33142,Thoracic outlet syndrome,0,3,3,1,0
+4444,Cholesterol,74991,Cholesterol,0,1,1,1,0
+4446,Homatropine methylbromide,20466,Homatropine methylbromide,0,2,2,1,0
+4451,Aromatase,38583,Aromatase,0,1,1,1,0
+4453,Wikiversity,29342,Wikiversity,0,1,1,1,0
+4457,Hans Reichenbach,39902,Hans Reichenbach,0,2,2,1,0
+4462,Viktor Frankl,35265,Viktor Frankl,0,2,2,1,0
+4467,Jurist,16593,Jurist,0,1,1,1,0
+4468,C-peptide,24610,C-peptide,0,1,1,1,0
+4469,Rubidium,38866,Rubidium,0,1,1,1,0
+4474,Georges Charpak,27869,Georges Charpak,0,2,2,1,0
+4475,Burkina Faso,119236,Burkina Faso,0,2,2,1,0
+4493,Pakistan,197904,Pakistan,0,1,1,1,0
+4494,Project Gutenberg,42643,Project Gutenberg,0,2,2,1,0
+4502,Orthomyxoviridae,41529,Orthomyxoviridae,0,1,1,1,0
+4504,Rita Levi-Montalcini,64573,Rita Levi-Montalcini,0,2,2,1,0
+4505,Ragnar Granit,25542,Ragnar Granit,0,2,2,1,0
+4506,Paul Ehrlich,57927,Paul Ehrlich,0,2,2,1,0
+4510,Piritramide,29178,Piritramide,0,1,1,1,0
+4523,Tetracycline,36384,Tetracycline,0,1,1,1,0
+4524,Martin Lewis Perl,28533,Martin Lewis Perl,0,3,3,1,0
+4525,Vincent du Vigneaud,23313,Vincent du Vigneaud,0,3,3,1,0
+4530,Temazepam,62405,Temazepam,0,1,1,1,0
+4532,Amsterdam,143808,Amsterdam,0,1,1,1,0
+4533,Martin Heinrich Klaproth,26467,Martin Heinrich Klaproth,0,3,3,1,0
+4538,Paul Lauterbur,35954,Paul Lauterbur,0,2,2,1,0
+4540,Chris Hadfield,80191,Chris Hadfield,0,2,2,1,0
+4556,Pyrrolidine,17923,Pyrrolidine,0,1,1,1,0
+4564,Intelligent design,103890,Intelligent design,0,2,2,1,0
+4574,Adrenaline,57595,Adrenaline,0,1,1,1,0
+4579,Tilidine,32885,Tilidine,0,1,1,1,0
+4580,Protozoa,47510,Protozoa,0,1,1,1,0
+4585,Syncytium,20356,Syncytium,0,1,1,1,0
+4587,Acetanilide,24348,Acetanilide,0,1,1,1,0
+4589,Sheldon Glashow,30315,Sheldon Glashow,0,2,2,1,0
+4590,Bacillus cereus,28908,Bacillus cereus,0,2,2,1,0
+4595,Microvillus,21945,Microvillus,0,1,1,1,0
+4597,Charaka,19194,Charaka,0,1,1,1,0
+4602,Carl Benjamin Boyer,17441,Carl Benjamin Boyer,0,3,3,1,0
+4609,Splendor Solis,19689,Splendor Solis,0,2,2,1,0
+4614,Chemical Reviews,17481,Chemical Reviews,0,2,2,1,0
+4618,Emil du Bois-Reymond,29835,Emil du Bois-Reymond,0,3,3,1,0
+4620,Verapamil,41623,Verapamil,0,1,1,1,0
+4621,Serge Haroche,25581,Serge Haroche,0,2,2,1,0
+4625,Anagrelide,24425,Anagrelide,0,1,1,1,0
+4628,Ayurveda,88474,Ayurveda,0,1,1,1,0
+4631,Holmium,32250,Holmium,0,1,1,1,0
+4632,Physician assistant,48812,Physician assistant,0,2,2,1,0
+4639,Eli Lilly and Company,77811,Eli Lilly and Company,0,4,4,1,0
+4642,Lymphogranuloma venereum,33727,Lymphogranuloma venereum,0,2,2,1,0
+4643,Niels Kaj Jerne,29422,Niels Kaj Jerne,0,3,3,1,0
+4647,Ian Hacking,35831,Ian Hacking,0,2,2,1,0
+4649,World Register of Marine Species,16048,World Register of Marine Species,0,5,5,1,0
+4652,Mimesis,44779,Mimesis,0,1,1,1,0
+4654,Ritonavir,38916,Ritonavir,0,1,1,1,0
+4660,Michael Polanyi,49687,Michael Polanyi,0,2,2,1,0
+4668,Philip Seymour Hoffman,107889,Philip Seymour Hoffman,0,3,3,1,0
+4675,Gustav Ludwig Hertz,34087,Gustav Ludwig Hertz,0,3,3,1,0
+4678,Clotiazepam,28686,Clotiazepam,0,1,1,1,0
+4681,Dronabinol,24448,Dronabinol,0,1,1,1,0
+4695,Massage,72171,Massage,0,1,1,1,0
+4697,Tennessine,65761,Tennessine,0,1,1,1,0
+4702,Asana,74453,Asana,0,1,1,1,0
+4703,Urine,38959,Urine,0,1,1,1,0
+4707,Pyrimidine,36713,Pyrimidine,0,1,1,1,0
+4709,Ligand,38931,Ligand,0,1,1,1,0
+4712,Wolfgang Ketterle,27210,Wolfgang Ketterle,0,2,2,1,0
+4716,Vertex ,15730,Vertex ,0,1,1,1,0
+4718,Tampere,99743,Tampere,0,1,1,1,0
+4729,Asclepias,34152,Asclepias,0,1,1,1,0
+4732,Advaita Vedanta,196641,Advaita Vedanta,0,2,2,1,0
+4733,Lionel Crabb,76249,Lionel Crabb,0,2,2,1,0
+4734,Medscape,15471,Medscape,0,1,1,1,0
+4744,MacTutor History of Mathematics archive,11894,MacTutor History of Mathematics archive,0,5,5,1,0
+4752,Carbapenem,32116,Carbapenem,0,1,1,1,0
+4760,Soju,28941,Soju,0,1,1,1,0
+4761,2C-I,47880,2C-I,0,1,1,1,0
+4768,Kir2.1,25251,Kir2.1,0,1,1,1,0
+4770,Paruresis,26875,Paruresis,0,1,1,1,0
+4771,Renato Dulbecco,30740,Renato Dulbecco,0,2,2,1,0
+4772,Dolasetron,35350,Dolasetron,0,1,1,1,0
+4774,Peer education,21358,Peer education,0,2,2,1,0
+4777,Statcoulomb,16624,Statcoulomb,0,1,1,1,0
+4782,Ladakh,87212,Ladakh,0,1,1,1,0
+4784,Cocktail,32967,Cocktail,0,1,1,1,0
+4787,Dell,101684,Dell,0,1,1,1,0
+4788,MedlinePlus,18475,MedlinePlus,0,1,1,1,0
+4790,Alkali,17981,Alkali,0,1,1,1,0
+4795,Sappho,81372,Sappho,0,1,1,1,0
+4796,David Attenborough,133914,David Attenborough,0,2,2,1,0
+4798,Fermium,35057,Fermium,0,1,1,1,0
+4800,Radionuclide,39252,Radionuclide,0,1,1,1,0
+4801,Clostridium,35352,Clostridium,0,1,1,1,0
+4804,Klebsiella,19122,Klebsiella,0,1,1,1,0
+4806,Carbamazepine,52384,Carbamazepine,0,1,1,1,0
+4812,Chloroplast,123039,Chloroplast,0,1,1,1,0
+4813,Shiitake,28820,Shiitake,0,1,1,1,0
+4817,BBC News,69291,BBC News,0,2,2,1,0
+4819,Jabir ibn Hayyan,73139,Jabir ibn Hayyan,0,3,3,1,0
+4820,Antiserum,24872,Antiserum,0,1,1,1,0
+4835,Otto Rank,60295,Otto Rank,0,2,2,1,0
+4840,Ergocalciferol,25216,Ergocalciferol,0,1,1,1,0
+4845,Carl Sagan,115840,Carl Sagan,0,2,2,1,0
+4847,Vanadium,52831,Vanadium,0,1,1,1,0
+4848,Hermann von Helmholtz,43295,Hermann von Helmholtz,0,3,3,1,0
+4852,Thomas Pesquet,63217,Thomas Pesquet,0,2,2,1,0
+4857,Pierre Janet,34775,Pierre Janet,0,2,2,1,0
+4859,Acne,96785,Acne,0,1,1,1,0
+4867,Renaissance,118660,Renaissance,0,1,1,1,0
+4873,Donepezil,33833,Donepezil,0,1,1,1,0
+4874,Willem Einthoven,27690,Willem Einthoven,0,2,2,1,0
+4875,Max Perutz,44391,Max Perutz,0,2,2,1,0
+4876,Nicholas Patrick,57426,Nicholas Patrick,0,2,2,1,0
+4879,Pomorie,36634,Pomorie,0,1,1,1,0
+4885,Nucleobase,21954,Nucleobase,0,1,1,1,0
+4886,Schistosoma,36599,Schistosoma,0,1,1,1,0
+4887,Pierre Gassendi,54860,Pierre Gassendi,0,2,2,1,0
+4896,Noscapine,41606,Noscapine,0,1,1,1,0
+4901,Tropicos,12586,Tropicos,0,1,1,1,0
+4909,Eric F. Wieschaus,26202,Eric F. Wieschaus,0,3,3,1,0
+4912,American Academy of Arts and Sciences,27424,American Academy of Arts and Sciences,0,6,6,1,0
+4913,Melusine,38192,Melusine,0,1,1,1,0
+4927,Kilogram,57005,Kilogram,0,1,1,1,0
+4929,Alkali,17847,Alkali,0,1,1,1,0
+4940,Academic Press,17995,Academic Press,0,2,2,1,0
+4945,Spirometer,27373,Spirometer,0,1,1,1,0
+4950,Japan,101162,Japan,0,1,1,1,0
+4953,Hiroshi Amano,29357,Hiroshi Amano,0,2,2,1,0
+4956,Heliaia,30989,Heliaia,0,1,1,1,0
+4962,Nantes,149323,Nantes,0,1,1,1,0
+4968,Heinrich Hertz,49844,Heinrich Hertz,0,2,2,1,0
+4969,Barotrauma,77717,Barotrauma,0,1,1,1,0
+4975,Quimper,39218,Quimper,0,1,1,1,0
+4979,Gorgias,60735,Gorgias,0,1,1,1,0
+4983,Triple sec,20697,Triple sec,0,2,2,1,0
+4985,Lenzie,26565,Lenzie,0,1,1,1,0
+4992,Pyridoxine,20331,Pyridoxine,0,1,1,1,0
+4993,Pneumothorax,57303,Pneumothorax,0,1,1,1,0
+4996,Saudade,40771,Saudade,0,1,1,1,0
+4998,Bass Rock,44960,Bass Rock,0,2,2,1,0
+5000,Apollonia ,28203,Apollonia ,0,1,1,1,0
+5005,Gerhard Dorn,19369,Gerhard Dorn,0,2,2,1,0
+5007,Speculum ,21874,Speculum ,0,1,1,1,0
+5032,Daratumumab,24714,Daratumumab,0,1,1,1,0
+5034,Papaverine,26113,Papaverine,0,1,1,1,0
+5036,Point-of-care testing,27278,Point-of-care testing,0,2,2,1,0
+5043,Diltiazem,33640,Diltiazem,0,1,1,1,0
+5046,Pietro Pomponazzi,20978,Pietro Pomponazzi,0,2,2,1,0
+5054,Hermetica,61519,Hermetica,0,1,1,1,0
+5057,Dermis,23188,Dermis,0,1,1,1,0
+5058,Hugo de Vries,34501,Hugo de Vries,0,3,3,1,0
+5060,Wilson Greatbatch,22189,Wilson Greatbatch,0,2,2,1,0
+5061,Saskatchewan,82014,Saskatchewan,0,1,1,1,0
+5065,Herrerasaurus,44402,Herrerasaurus,0,1,1,1,0
+5070,Michigan State University,105595,Michigan State University,0,3,3,1,0
+5071,Kinshasa,64635,Kinshasa,0,1,1,1,0
+5076,Alprazolam,58426,Alprazolam,0,1,1,1,0
+5081,Corynebacterium diphtheriae,22401,Corynebacterium diphtheriae,0,2,2,1,0
+5084,Huperzine A,28517,Huperzine A,0,2,2,1,0
+5093,Ergine,70865,Ergine,0,1,1,1,0
+5096,Fahrenheit,33813,Fahrenheit,0,1,1,1,0
+5111,Indian Health Service,46541,Indian Health Service,0,3,3,1,0
+5115,Etanercept,32913,Etanercept,0,1,1,1,0
+5118,Percy Williams Bridgman,35252,Percy Williams Bridgman,0,3,3,1,0
+5121,Ranolazine,32185,Ranolazine,0,1,1,1,0
+5126,Hyoscyamine,37423,Hyoscyamine,0,1,1,1,0
+5135,Ammonium,30000,Ammonium,0,1,1,1,0
+5142,River Phoenix,61217,River Phoenix,0,2,2,1,0
+5143,Carteolol,38165,Carteolol,0,1,1,1,0
+5144,Stegosaurus,81109,Stegosaurus,0,1,1,1,0
+5150,Telmisartan,29149,Telmisartan,0,1,1,1,0
+5167,Dosha,29341,Dosha,0,1,1,1,0
+5168,Syngnathidae,24590,Syngnathidae,0,1,1,1,0
+5175,Karl Popper,135639,Karl Popper,0,2,2,1,0
+5177,Frans Hogenberg,17453,Frans Hogenberg,0,2,2,1,0
+5179,Prosecco,27887,Prosecco,0,1,1,1,0
+5185,Arvid Carlsson,27958,Arvid Carlsson,0,2,2,1,0
+5190,Temperament,40207,Temperament,0,1,1,1,0
+5191,Buddy breathing,58637,Buddy breathing,0,2,2,1,0
+5195,MDMA,134070,MDMA,0,1,1,1,0
+5197,Hexokinase,30166,Hexokinase,0,1,1,1,0
+5198,William Bateson,60354,William Bateson,0,2,2,1,0
+5199,Olanzapine,100577,Olanzapine,0,1,1,1,0
+5204,Colombia,120252,Colombia,0,1,1,1,0
+5209,Poliovirus,39403,Poliovirus,0,1,1,1,0
+5219,Sagunto,40166,Sagunto,0,1,1,1,0
+5220,Vardenafil,28591,Vardenafil,0,1,1,1,0
+5222,Rete mirabile,22144,Rete mirabile,0,2,2,1,0
+5225,Bas van Fraassen,31071,Bas van Fraassen,0,3,3,1,0
+5232,Khaqani,32774,Khaqani,0,1,1,1,0
+5233,Edward Calvin Kendall,25209,Edward Calvin Kendall,0,3,3,1,0
+5236,The Hill ,31562,The Hill ,0,2,2,1,0
+5238,Strategic Defense Initiative,104175,Strategic Defense Initiative,0,3,3,1,0
+5240,Apollonia ,60222,Apollonia ,0,1,1,1,0
+5241,Joule,31116,Joule,0,1,1,1,0
+5243,Endoderm,18846,Endoderm,0,1,1,1,0
+5249,Elastase,19580,Elastase,0,1,1,1,0
+5252,MPTP,23366,MPTP,0,1,1,1,0
+5254,Epiglottitis,24616,Epiglottitis,0,1,1,1,0
+5261,Yunnan,105623,Yunnan,0,1,1,1,0
+5267,CD14,20982,CD14,0,1,1,1,0
+5275,Cyprus,133308,Cyprus,0,1,1,1,0
+5277,Paronychia,33566,Paronychia,0,1,1,1,0
+5281,Timolol,22515,Timolol,0,1,1,1,0
+5282,Ignaz Semmelweis,70844,Ignaz Semmelweis,0,2,2,1,0
+5287,Sputum,23096,Sputum,0,1,1,1,0
+5290,Random-access memory,54910,Random-access memory,0,2,2,1,0
+5306,Fulcanelli,27961,Fulcanelli,0,1,1,1,0
+5307,Spectrometer,21169,Spectrometer,0,1,1,1,0
+5309,Eric Kandel,64634,Eric Kandel,0,2,2,1,0
+5319,Himera,40736,Himera,0,1,1,1,0
+5321,Shiatsu,28897,Shiatsu,0,1,1,1,0
+5328,George Starkey,36063,George Starkey,0,2,2,1,0
+5330,Lanthanide,81918,Lanthanide,0,1,1,1,0
+5340,Campylobacter jejuni,39094,Campylobacter jejuni,0,2,2,1,0
+5347,Gonadotropin-releasing hormone,40707,Gonadotropin-releasing hormone,0,2,2,1,0
+5358,Rutherfordium,44402,Rutherfordium,0,1,1,1,0
+5360,Superfood,24242,Superfood,0,1,1,1,0
+5366,Johann Heinrich Lambert,30181,Johann Heinrich Lambert,0,3,3,1,0
+5368,James Paget,30284,James Paget,0,2,2,1,0
+5391,Itihasa,47369,Itihasa,0,1,1,1,0
+5397,Pythagoras,114587,Pythagoras,0,1,1,1,0
+5403,Good Country Index,31971,Good Country Index,0,3,3,1,0
+5405,Paul Kurtz,31656,Paul Kurtz,0,2,2,1,0
+5420,Mniotype,16053,Mniotype,0,1,1,1,0
+5421,Magna Graecia,49146,Magna Graecia,0,2,2,1,0
+5422,Kilogram,57197,Kilogram,0,1,1,1,0
+5429,FtsZ,28018,FtsZ,0,1,1,1,0
+5430,Theodore Roosevelt,230662,Theodore Roosevelt,0,2,2,1,0
+5431,Kallawaya,23203,Kallawaya,0,1,1,1,0
+5433,Mylan,46111,Mylan,0,1,1,1,0
+5441,Myocarditis,39817,Myocarditis,0,1,1,1,0
+5447,Desmond Morris,36847,Desmond Morris,0,2,2,1,0
+5466,Harold Wilson,153242,Harold Wilson,0,2,2,1,0
+5471,Bayer,79650,Bayer,0,1,1,1,0
+5480,Lutetium,37555,Lutetium,0,1,1,1,0
+5489,International Association of Nitrox and Technical Divers,56555,International Association of Nitrox and Technical Divers,0,7,7,1,0
+5490,Randolph Bresnik,60183,Randolph Bresnik,0,2,2,1,0
+5492,ASTM International,25117,ASTM International,0,2,2,1,0
+5493,Apple Watch,78901,Apple Watch,0,2,2,1,0
+5501,Civitas,16194,Civitas,0,1,1,1,0
+5502,Eurobarometer,19690,Eurobarometer,0,1,1,1,0
+5507,Babesiosis,31892,Babesiosis,0,1,1,1,0
+5513,Tripelennamine,30090,Tripelennamine,0,1,1,1,0
+5514,Sydney,146700,Sydney,0,1,1,1,0
+5522,Peter Paul Rubens,57958,Peter Paul Rubens,0,3,3,1,0
+5524,Bad trip,25128,Bad trip,0,2,2,1,0
+5525,Atrium ,27238,Atrium ,0,1,1,1,0
+5528,Rutherford ,13115,Rutherford ,0,1,1,1,0
+5533,Walter Gilbert,27932,Walter Gilbert,0,2,2,1,0
+5535,Hand,46364,Hand,0,1,1,1,0
+5544,Affix,23557,Affix,0,1,1,1,0
+5545,Irbesartan,21246,Irbesartan,0,1,1,1,0
+5550,Cathine,36595,Cathine,0,1,1,1,0
+5552,Ivabradine,23078,Ivabradine,0,1,1,1,0
+5561,Ibuprofen,57371,Ibuprofen,0,1,1,1,0
+5562,Opisthotonus,18687,Opisthotonus,0,1,1,1,0
+5572,Metaxa,28801,Metaxa,0,1,1,1,0
+5574,United States Pharmacopeia,20577,United States Pharmacopeia,0,3,3,1,0
+5576,Axon,48308,Axon,0,1,1,1,0
+5579,Henrik Dam,23624,Henrik Dam,0,2,2,1,0
+5582,BMPR2,33524,BMPR2,0,1,1,1,0
+5587,Oxidase,15965,Oxidase,0,1,1,1,0
+5588,Entrez,14573,Entrez,0,1,1,1,0
+5589,Bedale,33278,Bedale,0,1,1,1,0
+5590,Tai chi,65528,Tai chi,0,2,2,1,0
+5611,Herpes simplex,64314,Herpes simplex,0,2,2,1,0
+5619,Fibroblast,24124,Fibroblast,0,1,1,1,0
+5634,Nicotine,89912,Nicotine,0,1,1,1,0
+5642,Bombus consobrinus,14476,Bombus consobrinus,0,2,2,1,0
+5645,Theanine,35318,Theanine,0,1,1,1,0
+5648,Alcohol ,51429,Alcohol ,0,1,1,1,0
+5650,Vinflunine,22987,Vinflunine,0,1,1,1,0
+5662,Chrysopoeia,21532,Chrysopoeia,0,1,1,1,0
+5663,Mint julep,26880,Mint julep,0,2,2,1,0
+5664,Zakariya al-Qazwini,26411,Zakariya al-Qazwini,0,2,2,1,0
+5680,Tesla Model 3,64098,Tesla Model 3,0,3,3,1,0
+5683,University of Rochester,82111,University of Rochester,0,3,3,1,0
+5690,Peru,110155,Peru,0,1,1,1,0
+5701,Salvador Luria,45291,Salvador Luria,0,2,2,1,0
+5703,Entacapone,28678,Entacapone,0,1,1,1,0
+5710,United States Department of Defense,65006,United States Department of Defense,0,5,5,1,0
+5712,Allen Carr,25683,Allen Carr,0,2,2,1,0
+5714,Carl Ludwig,27390,Carl Ludwig,0,2,2,1,0
+5715,Extremely high frequency,32163,Extremely high frequency,0,3,3,1,0
+5717,Syncope ,47806,Syncope ,0,1,1,1,0
+5721,Embryo,35443,Embryo,0,1,1,1,0
+5724,Infliximab,40087,Infliximab,0,1,1,1,0
+5725,Fellow of the Royal Society,26739,Fellow of the Royal Society,0,5,5,1,0
+5729,Chrysolina,22593,Chrysolina,0,1,1,1,0
+5730,Stephen Hales,36972,Stephen Hales,0,2,2,1,0
+5735,Supernova,111289,Supernova,0,1,1,1,0
+5740,Kalanchoe daigremontiana,19236,Kalanchoe daigremontiana,0,2,2,1,0
+5745,Ranitidine,51494,Ranitidine,0,1,1,1,0
+5749,Lycoris ,20822,Lycoris ,0,1,1,1,0
