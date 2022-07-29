@@ -5,7 +5,7 @@ import tqdm
 import csv
 
 STARTING_KEYPHRASE ='heart_failure'
-TARGET_LANGUAGE = 'nl'
+TARGET_LANGUAGE = 'fr'
 DEPTH = 2
 BILINGUAL_DICT = []
 TOKENS = []
@@ -29,7 +29,7 @@ def get_page(link, mwe=False):
 
     length = len(" ".join(t.strip() for t in soup.find_all(text=True)))
     try:
-        tgt_link = soup.find_all("li", {"class" :"interwiki-nl".format(TARGET_LANGUAGE)})[0].a.attrs["href"]
+        tgt_link = soup.find_all("li", {"class" :"interwiki-{}".format(TARGET_LANGUAGE)})[0].a.attrs["href"]
     except:
         return None
     tgt_title = tgt_link.split('/')[-1]

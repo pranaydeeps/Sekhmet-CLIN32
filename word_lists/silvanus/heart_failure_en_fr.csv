@@ -1,0 +1,1366 @@
+,source,target,source_words,target_words,compare,distance
+1,Cobalt,Cobalt,1,1,1,0
+3,Methamphetamine,Méthamphétamine,1,1,1,2
+4,Cilostazol,Cilostazol,1,1,1,0
+6,Digitalis,Digitale,1,1,1,2
+7,Infection,Infection,1,1,1,0
+8,Hyponatremia,Hyponatrémie,1,1,1,2
+15,Splenomegaly,Splénomégalie,1,1,1,4
+16,Echocardiography,Échocardiographie,1,1,1,3
+22,Paracelsus,Paracelse,1,1,1,2
+23,Inotrope,Inotropisme,1,1,1,3
+30,Angiography,Angiographie,1,1,1,2
+32,Nocturia,Nycturie,1,1,1,2
+33,Antipsychotic,Neuroleptique,1,1,1,13
+35,Systole,Systole,1,1,1,0
+37,Shortness of breath,Dyspnée,3,1,2,17
+39,Stimulant,Stimulant,1,1,1,0
+41,Beta blocker,Bêta-bloquant,2,1,2,7
+48,Beta blocker,Bêta-bloquant,2,1,2,7
+57,Fatigue,Fatigue ,1,1,1,1
+59,Therapy,Traitement ,1,1,1,9
+63,Diuretic,Diurétique,1,1,1,4
+66,Exercise,Fitness,1,1,1,7
+68,Cyanosis,Cyanose,1,1,1,2
+70,Heart,Cœur,1,1,1,4
+75,Crackles,Crépitant,1,1,1,7
+79,Bradycardia,Bradycardie,1,1,1,1
+80,Echocardiography,Échocardiographie,1,1,1,3
+83,Opiate,Opiacé,1,1,1,2
+92,Verapamil,Vérapamil,1,1,1,1
+93,Vasopressin,Vasopressine,1,1,1,1
+96,Heart,Cœur,1,1,1,4
+102,Edema,Œdème,1,1,1,3
+104,Thiazolidinedione,Thiazolidinedione,1,1,1,0
+105,Aconitum,Aconitum,1,1,1,0
+106,Endocarditis,Endocardite,1,1,1,2
+113,Ketamine,Kétamine,1,1,1,1
+115,Amyloidosis,Amylose ,1,1,1,5
+118,Menopause,Ménopause,1,1,1,1
+119,Hypoxemia,Hypoxémie,1,1,1,2
+123,Hyperthyroidism,Hyperthyroïdie,1,1,1,3
+125,Endocarditis,Endocardite,1,1,1,2
+126,Fatigue,Fatigue ,1,1,1,1
+129,Hospice,Hospice,1,1,1,0
+131,Spironolactone,Spironolactone,1,1,1,0
+132,Cyclophosphamide,Cyclophosphamide,1,1,1,0
+133,Prostaglandin,Prostaglandine,1,1,1,1
+135,Methylphenidate,Méthylphénidate,1,1,1,2
+143,Edema,Œdème,1,1,1,3
+144,SGLT2 inhibitor,Gliflozine,2,1,2,12
+145,Medical diagnosis,Diagnostic ,2,1,2,12
+148,Diastole,Diastole,1,1,1,0
+151,Hepatomegaly,Hépatomégalie,1,1,1,4
+154,Syphilis,Syphilis,1,1,1,0
+155,Anagrelide,Anagrélide,1,1,1,1
+156,Sacubitril/valsartan,valsartan,1,1,1,11
+157,Sacubitril/valsartan,valsartan,1,1,1,11
+159,MedlinePlus,MedlinePlus,1,1,1,0
+160,Tachypnea,Tachypnée,1,1,1,2
+161,Connective tissue disease,Connectivite,3,1,2,14
+163,COX-2 inhibitor,Coxib,2,1,2,12
+165,Medical history,Anamnèse ,2,1,2,13
+169,Lung,Poumon,1,1,1,5
+170,Ayurveda,Ayurveda,1,1,1,0
+171,Salbutamol,Salbutamol,1,1,1,0
+172,Cardiology,Cardiologie,1,1,1,2
+173,Cancer,Cancer,1,1,1,0
+175,Pericardium,Péricarde,1,1,1,4
+176,Electrocardiography,Électrocardiographie,1,1,1,3
+177,Crackles,Crépitant,1,1,1,7
+178,Pericarditis,Péricardite,1,1,1,3
+181,Wheeze,Sibilance,1,1,1,8
+183,Auscultation,Auscultation,1,1,1,0
+188,Liquorice,Réglisse,1,1,1,8
+189,Sodium,Sodium,1,1,1,0
+191,Tamsulosin,Tamsulosine,1,1,1,1
+193,Actin,Actine,1,1,1,1
+195,Ischemia,Ischémie,1,1,1,2
+196,Cannula,Canule,1,1,1,2
+198,Behaviour therapy,Béhaviorisme,2,1,2,9
+203,Multiple myeloma,Myélome,2,1,2,11
+205,Endocardium,Endocarde,1,1,1,3
+206,Sacrum,Sacrum,1,1,1,0
+208,Antihypertensive drug,Antihypertenseur,2,1,2,6
+212,Furosemide,Furosémide,1,1,1,1
+213,Itraconazole,Itraconazole,1,1,1,0
+214,Asian people,Asiatique ,2,1,2,8
+215,Iron supplement,Fer ,2,1,2,14
+219,Anemia,Anémie,1,1,1,2
+220,Bloodletting,Saignée ,1,1,1,11
+223,Shortness of breath,Dyspnée,3,1,2,17
+224,Cardiac glycoside,Digitalique,2,1,2,14
+226,Diltiazem,Diltiazem,1,1,1,0
+228,Anasarca,Anasarque,1,1,1,3
+232,Electrolyte,Électrolyte,1,1,1,1
+234,Cardiomyopathy,Cardiomyopathie,1,1,1,2
+245,Hydralazine,Hydralazine,1,1,1,0
+248,Percussion ,Percussion ,1,1,1,0
+252,Potassium,Potassium,1,1,1,0
+255,Weight loss,Amaigrissement,2,1,2,12
+258,Hospital,Hôpital,1,1,1,2
+265,Algorithm,Algorithme,1,1,1,1
+267,Hemopericardium,Hémopéricarde,1,1,1,5
+270,Dizziness,Étourdissement,1,1,1,12
+274,Encephalopathy,Encéphalopathie,1,1,1,3
+279,Fibrosis,Fibrose,1,1,1,2
+281,Tetrandrine,Tétrandrine,1,1,1,1
+284,Avicenna,Avicenne,1,1,1,1
+285,Edema,Œdème,1,1,1,3
+286,Coagulopathy,Coagulopathie,1,1,1,2
+288,Medication,Médicament,1,1,1,5
+290,Myocarditis,Myocardite,1,1,1,2
+291,Iron supplement,Fer ,2,1,2,14
+294,Complete blood count,Hémogramme,3,1,2,18
+297,Therapy,Traitement ,1,1,1,9
+298,Hippocrates,Hippocrate,1,1,1,1
+299,Cardiomegaly,Cardiomégalie,1,1,1,3
+303,Gynura,Gynura,1,1,1,0
+304,Trastuzumab,Trastuzumab,1,1,1,0
+308,Cocaine,Cocaïne,1,1,1,1
+310,Digoxin,Digoxine,1,1,1,1
+311,Minoxidil,Minoxidil,1,1,1,0
+314,Ivabradine,Ivabradine,1,1,1,0
+316,Beta blocker,Bêta-bloquant,2,1,2,7
+320,Obesity,Obésité,1,1,1,2
+323,Cough,Toux,1,1,1,3
+328,Lead,Plomb,1,1,1,5
+330,Syndrome,Syndrome,1,1,1,0
+331,Orthopnea,Orthopnée,1,1,1,2
+332,Cirrhosis,Cirrhose,1,1,1,2
+334,Ultrasound,Ultrason,1,1,1,2
+335,Gossypol,Gossypol,1,1,1,0
+337,Hyperthyroidism,Hyperthyroïdie,1,1,1,3
+338,Histopathology,Histopathologie,1,1,1,2
+342,Pathophysiology,Physiopathologie,1,1,1,10
+343,Electrocardiography,Électrocardiographie,1,1,1,3
+344,Catheter,Cathéter,1,1,1,1
+347,Bronchus,Bronche,1,1,1,2
+352,Aorta,Aorte,1,1,1,1
+353,Myosin,Myosine,1,1,1,1
+359,Ascites,Ascite,1,1,1,1
+360,Tachycardia,Tachycardie,1,1,1,1
+364,Eplerenone,Éplérénone,1,1,1,3
+366,Antiarrhythmic agent,Antiarythmique,2,1,2,8
+367,Cardiomegaly,Cardiomégalie,1,1,1,3
+369,Daunorubicin,Daunorubicine,1,1,1,1
+370,Yohimbine,Yohimbine,1,1,1,0
+371,Pregabalin,Prégabaline,1,1,1,2
+372,Alcoholism,Alcoolisme,1,1,1,2
+375,Vasodilation,Vasodilatateur,1,1,1,5
+376,Autopsy,Autopsie,1,1,1,2
+378,Infant,Nourrisson,1,1,1,10
+383,Alogliptin,Alogliptine,1,1,1,1
+389,Species,Espèce,1,1,1,5
+391,Opium,Opium,1,1,1,0
+395,Benzbromarone,Benzbromarone,1,1,1,0
+396,Autopsy,Autopsie,1,1,1,2
+397,Blood,Sang,1,1,1,5
+401,Polyp ,Polype ,1,1,1,1
+402,Retrovirus,Retroviridae,1,1,1,4
+403,Crystal healing,Lithothérapie,2,1,2,12
+406,Thermocline,Thermocline,1,1,1,0
+408,Abscess,Abcès,1,1,1,3
+409,Constitutionality,Inconstitutionnalité,1,1,1,5
+411,Jāti,Jati,1,1,1,1
+413,Alpha-synuclein,Alpha-synucléine,1,1,1,2
+415,Myelitis,Myélite,1,1,1,3
+416,Patient,Patient,1,1,1,0
+419,Dehydroepiandrosterone,Déhydroépiandrostérone,1,1,1,3
+423,Mucin,Mucine,1,1,1,1
+424,Tetanospasmin,Tétanospasmine,1,1,1,2
+425,Serology,Sérologie,1,1,1,3
+428,Al-Farghani,Al-Farghani,1,1,1,0
+429,Prazosin,Prazosine,1,1,1,1
+432,Chemoreceptor,Chimiorécepteur,1,1,1,5
+437,"Myosin binding protein C, cardiac",MYBPC3,5,1,2,20
+438,Marathon,Marathon ,1,1,1,1
+439,Diabetes medication,Antidiabétique,2,1,2,16
+440,Phytomenadione,Phylloquinone,1,1,1,8
+441,Circulatory collapse,Collapsus ,2,1,2,15
+442,Bcl-2,Bcl-2,1,1,1,0
+444,Tarsus ,Tarse ,1,1,1,2
+445,Lung,Poumon,1,1,1,5
+447,Nadolol,Nadolol,1,1,1,0
+449,Star,Étoile,1,1,1,5
+451,Amenorrhea,Aménorrhée,1,1,1,3
+452,Urbanization,Urbanisation,1,1,1,1
+453,Jargon,Jargon,1,1,1,0
+457,Excavata,Excavata,1,1,1,0
+458,Kalam,Kalâm,1,1,1,1
+462,Paronychia,Panaris,1,1,1,6
+465,Berberis vulgaris,Épine-vinette,2,1,2,15
+466,Absinthe,Absinthe ,1,1,1,1
+467,Yakshagana,Yakshagana,1,1,1,0
+471,Bronchoscopy,Bronchoscopie,1,1,1,2
+472,"Ashland, Massachusetts",Ashland ,2,1,2,14
+477,Ouroboros,Ouroboros,1,1,1,0
+478,Pathophysiology,Physiopathologie,1,1,1,10
+482,SCN1A,SCN1A,1,1,1,0
+484,Arginase,Arginase,1,1,1,0
+486,Esophagus,Œsophage,1,1,1,3
+489,Hypercalcaemia,Hypercalcémie,1,1,1,3
+492,Micrograph,Photomicrographie,1,1,1,8
+493,Depth gauge,Profondimètre,2,1,2,12
+494,Magnesium deficiency,Hypomagnésémie,2,1,2,17
+496,Iatrogenesis,Iatrogénèse,1,1,1,4
+497,Genistein,Génistéine,1,1,1,3
+503,Pyrometallurgy,Pyrométallurgie,1,1,1,3
+504,Erasmus,Érasme,1,1,1,3
+505,Trimethoxyamphetamine,Triméthoxyamphétamine,1,1,1,2
+506,Endurance,Endurance,1,1,1,0
+509,Plasminogen activator inhibitor-1,PAI-1,3,1,2,20
+512,Neoplasm,Néoplasie,1,1,1,3
+514,Electrocardiography,Électrocardiographie,1,1,1,3
+515,Skin condition,Dermatose,2,1,2,13
+516,Normochromic anemia,Normochrome,2,1,2,8
+517,Korčula,Korčula,1,1,1,0
+518,Patella,Patella ,1,1,1,1
+521,Fluvoxamine,Fluvoxamine,1,1,1,0
+526,Rabies,Rage ,1,1,1,3
+528,JWH-018,JWH-018,1,1,1,0
+535,Hydroxycarbamide,Hydroxyurée,1,1,1,7
+536,Carbidopa,Carbidopa,1,1,1,0
+537,Mercenary,Mercenaire,1,1,1,2
+538,Autoreceptor,Autorécepteur,1,1,1,3
+540,BN-800 reactor,BN-800,2,1,2,8
+543,Kidney disease,Néphropathie,2,1,2,13
+546,Nortriptyline,Nortriptyline,1,1,1,0
+548,Cryotherapy,Cryothérapie,1,1,1,3
+549,Vertigo,Vertige,1,1,1,1
+551,Gums,Gencive,1,1,1,6
+552,Eurasia,Eurasie,1,1,1,1
+555,Allele,Allèle,1,1,1,1
+557,Mast cell,Mastocyte,2,1,2,4
+558,Brahmacharya,Brahmacharya,1,1,1,0
+559,Alveolus,Alvéole,1,1,1,3
+562,Albumin,Albumine,1,1,1,1
+564,Areca,Areca,1,1,1,0
+566,Reinforcement,Renforcement,1,1,1,1
+567,Chipotle,Chipotle,1,1,1,0
+569,Nephron,Néphron,1,1,1,1
+570,Thiruvalluvar,Tiruvalluvar,1,1,1,1
+573,Manidipine,Manidipine,1,1,1,0
+574,Sheep,Mouton,1,1,1,6
+580,Behaviour therapy,Béhaviorisme,2,1,2,9
+583,Quetiapine,Quétiapine,1,1,1,1
+585,Robot ethics,Roboéthique,2,1,2,6
+586,Flagellum,Flagelle,1,1,1,2
+587,Heuristic ,Heuristique ,1,1,1,3
+588,Allergy,Allergie,1,1,1,2
+591,Orange ,Orange ,1,1,1,0
+596,Alabama,Alabama,1,1,1,0
+597,Acid,Acide,1,1,1,1
+599,hERG,HERG,1,1,1,1
+600,Medicine,Médecine,1,1,1,2
+601,Sepsis,Sepsis,1,1,1,0
+602,Rapacuronium bromide,Rapacuronium,2,1,2,8
+603,Flatworm,Plathelminthes,1,1,1,10
+604,Donepezil,Donépézil,1,1,1,2
+607,Antibody,Anticorps,1,1,1,4
+610,HomoloGene,HomoloGene,1,1,1,0
+612,Phosphatidylethanolamine,Phosphatidyléthanolamine,1,1,1,1
+613,Frovatriptan,Frovatriptan,1,1,1,0
+614,Middle East,Moyen-Orient,2,1,2,10
+616,Rimantadine,Rimantadine,1,1,1,0
+624,Drug overdose,Overdose,2,1,2,6
+626,Alcohol ,Alcool ,1,1,1,1
+627,Radiation protection,Radioprotection,2,1,2,5
+628,Fasciolopsiasis,Fasciolopsiose,1,1,1,3
+630,Hyperacusis,Hyperacousie,1,1,1,2
+631,Methanol,Méthanol,1,1,1,1
+632,Solitude,Solitude,1,1,1,0
+633,Philosophical analysis,Analyse ,2,1,2,17
+637,Neurochemistry,Neurochimie,1,1,1,5
+639,Parenchyma,Parenchyme,1,1,1,1
+641,Texas,Texas,1,1,1,0
+642,Selegiline,Sélégiline,1,1,1,2
+643,Oliguria,Oligurie,1,1,1,1
+647,Indigestion,Dyspepsie,1,1,1,9
+648,Overdiagnosis,Surdiagnostic,1,1,1,5
+649,Drug withdrawal,Sevrage ,2,1,2,13
+651,Kickback ,Rétrocommission,1,1,1,14
+652,Lysine,Lysine,1,1,1,0
+659,Wuxing ,Wuxing ,1,1,1,0
+660,Vinegar,Vinaigre,1,1,1,4
+663,Carvedilol,Carvédilol,1,1,1,1
+667,Armenia,Arménie,1,1,1,2
+672,Iron supplement,Fer ,2,1,2,14
+673,Cereal,Céréale,1,1,1,3
+675,Ganjnameh,Ganjnameh,1,1,1,0
+677,Gonocyte,Gonocyte,1,1,1,0
+678,Apremilast,Aprémilast,1,1,1,1
+679,Habit,Habitude,1,1,1,3
+682,Psychometrics,Psychométrie,1,1,1,3
+683,Autoregulation,Autorégulation,1,1,1,1
+685,Arboreal locomotion,Arboricole,2,1,2,12
+686,Electrolite,Electrolite,1,1,1,0
+687,Itch,Prurit,1,1,1,6
+689,Tom Collins,Collins ,2,1,2,5
+691,Pull-up ,Traction ,1,1,1,8
+693,KIF15,KIF15,1,1,1,0
+694,Fertility,Fertilité,1,1,1,1
+695,Thymosin,Thymosine,1,1,1,1
+696,Reason,Raison,1,1,1,2
+698,Spacetime algebra,Espace-temps ,2,1,2,13
+701,Ribena,Ribena,1,1,1,0
+704,Swimming,Natation,1,1,1,7
+705,Astemizole,Astémizole,1,1,1,1
+707,Rubber band,Élastique,2,1,2,11
+709,Organelle,Organite,1,1,1,3
+711,Surgeon,Chirurgien,1,1,1,6
+712,Fat,Graisse,1,1,1,6
+714,Boil,Furoncle,1,1,1,6
+715,Desmoglein-2,DSG2,1,1,1,10
+718,Autobiography,Autobiographie,1,1,1,2
+719,Colonoscopy,Coloscopie,1,1,1,4
+720,Cartilage,Cartilage,1,1,1,0
+721,Deva ,Deva ,1,1,1,0
+722,Tuberculosis,Tuberculose,1,1,1,2
+723,Sickle cell disease,Drépanocytose,3,1,2,16
+724,Muscarine,Muscarine,1,1,1,0
+725,Anorexia ,Anorexie,1,1,1,2
+726,Inotrope,Inotropisme,1,1,1,3
+728,Hazard,Danger,1,1,1,5
+729,Junk food,Malbouffe,2,1,2,9
+730,Phosphorylation,Phosphorylation,1,1,1,0
+731,Calgary,Calgary,1,1,1,0
+732,Nicotine,Nicotine,1,1,1,0
+733,Naftidrofuryl,Naftidrofuryl,1,1,1,0
+734,Osteosclerosis,Ostéosclérose,1,1,1,4
+735,Balkans,Balkans,1,1,1,0
+737,Procainamide,Procaïnamide,1,1,1,1
+738,Pregnenolone,Prégnénolone,1,1,1,2
+739,Bioavailability,Biodisponibilité ,1,1,1,9
+741,Amitifadine,Amitifadine,1,1,1,0
+742,Acronym,Acronymie,1,1,1,2
+743,Sterzing,Vipiteno,1,1,1,7
+746,Beer,Bière,1,1,1,3
+747,Bendamustine,Bendamustine,1,1,1,0
+748,Stereotypy,Stéréotypie ,1,1,1,5
+751,Chrysin,Chrysine,1,1,1,1
+752,Lacosamide,Lacosamide,1,1,1,0
+754,Chondrocalcinosis,Chondrocalcinose,1,1,1,2
+755,Tachycardia,Tachycardie,1,1,1,1
+759,Ultraviolet,Ultraviolet,1,1,1,0
+762,Endothelium,Endothélium,1,1,1,1
+765,Benzothiazole,Benzothiazole,1,1,1,0
+766,Calorie,Calorie,1,1,1,0
+767,Chemotherapy,Chimiothérapie,1,1,1,5
+770,Scurvy,Scorbut,1,1,1,4
+774,Artemisia ,Armoise,1,1,1,6
+777,Arthashastra,Arthashâstra,1,1,1,1
+778,Athanor,Athanor ,1,1,1,1
+779,Tegafur,Tégafur,1,1,1,1
+780,P2Y12,P2Y12,1,1,1,0
+781,Mitochondrion,Mitochondrie,1,1,1,2
+784,Necrosis,Nécrose,1,1,1,3
+787,Bronchus,Bronche,1,1,1,2
+790,Dehydrogenase,Déshydrogénase,1,1,1,3
+792,Distillation,Distillation,1,1,1,0
+793,Iceberg,Iceberg,1,1,1,0
+798,Immune tolerance,Tolérance ,2,1,2,10
+799,Naphthylaminopropane,Naphtylaminopropane,1,1,1,1
+800,Family ,Famille ,1,1,1,2
+804,Arachnoid mater,Arachnoïde,2,1,2,6
+806,gamma-Hydroxybutyraldehyde,Gamma-Hydroxybutyraldéhyde,1,1,1,2
+807,Snoring,Ronflement,1,1,1,8
+808,Phenprocoumon,Phénprocoumone,1,1,1,2
+809,Dipropyltryptamine,Dipropyltryptamine,1,1,1,0
+810,Optometry,Optométrie,1,1,1,3
+812,Anhydrous,Anhydre,1,1,1,3
+816,Therac-25,Therac-25,1,1,1,0
+817,Beta blocker,Bêta-bloquant,2,1,2,7
+820,Fipronil,Fipronil,1,1,1,0
+821,Steroid,Stéroïde,1,1,1,3
+825,Grog,Grog,1,1,1,0
+826,Zürich,Zurich,1,1,1,1
+829,Canagliflozin,Canagliflozine,1,1,1,1
+830,Gynecomastia,Gynécomastie,1,1,1,2
+832,Hair loss,Alopécie,2,1,2,9
+835,Corfu,Corfou,1,1,1,1
+836,Hyperthyroidism,Hyperthyroïdie,1,1,1,3
+838,Inosine,Inosine,1,1,1,0
+839,Hindus,Hindous,1,1,1,1
+842,Acupuncture,Acupuncture,1,1,1,0
+843,Thoroughbred,Pur-sang,1,1,1,11
+844,Heartburn,Pyrosis,1,1,1,8
+845,Muscle cell,Myocyte,2,1,2,8
+846,5-Hydroxytryptophan,5-Hydroxytryptophane,1,1,1,1
+849,Motivation,Motivation,1,1,1,0
+850,Rad ,Rad ,1,1,1,0
+852,Geriatrics,Gériatrie,1,1,1,3
+854,Legionnaires' disease,Légionellose,2,1,2,13
+856,Soybean,Soja,1,1,1,4
+859,Generation,Génération ,1,1,1,3
+861,Anesthesia,Anesthésie,1,1,1,2
+863,Suunto,Suunto,1,1,1,0
+865,Kalam,Kalâm,1,1,1,1
+866,Elastin,Élastine,1,1,1,2
+868,Coherentism,Cohérentisme,1,1,1,2
+874,Measles,Rougeole,1,1,1,7
+877,Plasmid,Plasmide,1,1,1,1
+878,Ruxolitinib,Ruxolitinib,1,1,1,0
+880,Wealth,Richesse,1,1,1,8
+881,PAX3,Pax3,1,1,1,2
+882,Mutualism ,Mutualisme ,1,1,1,1
+883,Exercise ,Exercice,1,1,1,2
+885,Primate,Primates,1,1,1,1
+886,Clover,Trèfle,1,1,1,6
+894,Wuhan,Wuhan,1,1,1,0
+895,Narwhal,Narval,1,1,1,2
+896,Periciazine,Périciazine,1,1,1,1
+897,Pesto,Pesto,1,1,1,0
+898,Lung,Poumon,1,1,1,5
+900,Eicosanoid,Eicosanoïde,1,1,1,2
+904,City physician,Stadtphysikus,2,1,2,9
+906,Ear,Oreille,1,1,1,7
+907,Peroxynitrite,Peroxynitrite,1,1,1,0
+909,Paclitaxel,Paclitaxel,1,1,1,0
+911,Residency ,Résidence ,1,1,1,2
+914,Aristotelianism,Aristotélisme,1,1,1,5
+917,Conventionalism,Conventionnalisme,1,1,1,2
+921,Substantial form,Forme ,2,1,2,15
+926,Picometre,Picomètre,1,1,1,1
+929,Nesiritide,Nésiritide,1,1,1,1
+931,Pharmacopoeia,Pharmacopée,1,1,1,3
+934,Naturopathy,Naturopathie,1,1,1,2
+938,Delphinium,Delphinium,1,1,1,0
+944,Ethenzamide,Éthenzamide,1,1,1,1
+947,Latin,Latin,1,1,1,0
+949,Futon,Futon,1,1,1,0
+953,Erlotinib,Erlotinib,1,1,1,0
+954,Passivation ,Passivation,1,1,1,1
+955,Mutation,Mutation ,1,1,1,1
+956,Crackles,Crépitant,1,1,1,7
+957,Hydroxycarbamide,Hydroxyurée,1,1,1,7
+958,Prevalence,Prévalence,1,1,1,1
+963,Biological membrane,Membrane ,2,1,2,13
+966,Repressor,Répresseur,1,1,1,3
+969,Disease,Maladie,1,1,1,6
+971,Therapy,Traitement ,1,1,1,9
+973,Methylphenidate,Méthylphénidate,1,1,1,2
+974,Tropicos,Tropicos,1,1,1,0
+975,Lipoprotein,Lipoprotéine,1,1,1,2
+977,Vasoconstriction,Vasoconstriction,1,1,1,0
+978,Hyperlipidemia,Hyperlipémie,1,1,1,4
+980,Coiled coil,Superhélice,2,1,2,10
+986,Sunni Islam,Sunnisme,2,1,2,5
+987,Technology,Technologie,1,1,1,2
+988,Dounreay,Dounreay,1,1,1,0
+989,Blastomycosis,Blastomycose,1,1,1,2
+994,Trofosfamide,Trofosfamide,1,1,1,0
+995,Semen analysis,Spermogramme,2,1,2,12
+999,Myalgia,Myalgie,1,1,1,1
+1003,Boxing,Boxe,1,1,1,3
+1004,Varicose veins,Varice,2,1,2,8
+1006,Listeria,Listeria,1,1,1,0
+1007,Fasciolosis,Fasciolose,1,1,1,2
+1008,Billion,Billion ,1,1,1,1
+1009,Nematode,Nematoda,1,1,1,1
+1010,Sulcus ,Sillon ,1,1,1,4
+1012,Ergosterol,Ergostérol,1,1,1,1
+1013,Persillade,Persillade,1,1,1,0
+1014,Lens ,Lentille ,1,1,1,5
+1015,Saponin,Saponine,1,1,1,1
+1019,Cream,Crème ,1,1,1,4
+1024,Schnapps,Schnaps,1,1,1,1
+1027,Cosmetics,Cosmétique,1,1,1,4
+1028,Ryanodine receptor 2,RYR2,3,1,2,18
+1031,"Rohrdorf, Baden-Württemberg",Rohrdorf ,2,1,2,18
+1038,Diphenadione,Diphacinone,1,1,1,4
+1040,Scientific control,Témoin ,2,1,2,16
+1041,La Belle ,Belle ,2,1,2,3
+1043,Hemopericardium,Hémopéricarde,1,1,1,5
+1044,Patient,Patient,1,1,1,0
+1045,Imidazole,Imidazole,1,1,1,0
+1048,Nicotine,Nicotine,1,1,1,0
+1053,Epitope,Épitope,1,1,1,1
+1055,Fibrate,Fibrate,1,1,1,0
+1056,Haptoglobin,Haptoglobine,1,1,1,1
+1057,Corrosion fatigue,Fatigue-corrosion,2,1,2,17
+1060,Merit-Ptah,Méryt-Ptah ,1,1,1,3
+1061,Abbott Laboratories,Abbott ,2,1,2,12
+1064,Cyclizine,Cyclizine,1,1,1,0
+1066,Otranto,Otrante,1,1,1,1
+1067,Condom,Préservatif,1,1,1,11
+1069,Eudaimonia,Eudaimonia,1,1,1,0
+1076,Angiotensin,Angiotensine,1,1,1,1
+1077,Range ,Étendue ,1,1,1,5
+1080,Callus ,Cal ,1,1,1,3
+1081,Injury,Traumatisme ,1,1,1,11
+1082,"Roses, Girona",Roses,2,1,2,8
+1084,Lobelia,Lobelia,1,1,1,0
+1087,Bulimia nervosa,Boulimie,2,1,2,9
+1088,Orphanet,Orphanet,1,1,1,0
+1090,Kent,Kent,1,1,1,0
+1092,Scaphocephaly,Scaphocéphalie,1,1,1,3
+1094,Plant stem,Tige,2,1,2,9
+1095,Hippocampus,Hippocampe ,1,1,1,2
+1096,Coaching,Coaching,1,1,1,0
+1097,Gulistan ,Golestan ,1,1,1,2
+1099,Polygenism,Polygénisme,1,1,1,2
+1100,Snake,Serpentes,1,1,1,7
+1108,Acetylene,Acétylène,1,1,1,2
+1109,Basiliximab,Basiliximab,1,1,1,0
+1113,Protein ,Protide,1,1,1,3
+1116,Diglyceride,Diglycéride,1,1,1,1
+1118,Shōchū,Shōchū ,1,1,1,1
+1120,Budesonide/formoterol,Symbicort,1,1,1,17
+1123,Depolarization,Dépolarisation,1,1,1,2
+1126,Magnesium deficiency,Hypomagnésémie,2,1,2,17
+1127,Hip,Hanche,1,1,1,5
+1128,Dosha,Dosha,1,1,1,0
+1130,Hydrography,Hydrographie,1,1,1,2
+1131,Hookah,Narguilé,1,1,1,8
+1133,Capillary,Capillaire ,1,1,1,3
+1140,gamma-Butyrolactone,Gamma-Butyrolactone,1,1,1,1
+1142,CiteSeerX,CiteSeerX,1,1,1,0
+1143,Deoxyribose,Désoxyribose,1,1,1,2
+1145,Metildigoxin,Métildigoxine,1,1,1,2
+1147,Bilirubin,Bilirubine,1,1,1,1
+1149,Thebaine,Thébaïne,1,1,1,2
+1153,Effusion,Effusion,1,1,1,0
+1156,Angioplasty,Angioplastie,1,1,1,2
+1158,Clotrimazole,Clotrimazole,1,1,1,0
+1159,Osteopetrosis,Ostéopétrose,1,1,1,4
+1160,Speakeasy,Speakeasy,1,1,1,0
+1161,Carbonate,Carbonate,1,1,1,0
+1162,Melusine,Mélusine ,1,1,1,2
+1165,ChemSpider,ChemSpider,1,1,1,0
+1167,Flexitarianism,Flexitarisme,1,1,1,4
+1168,Tensor,Tenseur,1,1,1,2
+1169,Chromotherapy,Chromathérapie,1,1,1,4
+1171,Neurosis,Névrose,1,1,1,4
+1173,Hyperkeratosis,Hyperkératose,1,1,1,3
+1174,Hornblende,Hornblende,1,1,1,0
+1175,Sodium citrate,E331,2,1,2,14
+1176,Hydantoin,Hydantoïne,1,1,1,2
+1177,Lymphedema,Lymphœdème,1,1,1,3
+1180,Cod,Morue,1,1,1,4
+1181,Juice,Jus,1,1,1,3
+1184,Xenotransplantation,Xénogreffe,1,1,1,15
+1188,Delusion,Délire,1,1,1,5
+1191,Klebsiella,Klebsiella,1,1,1,0
+1195,Chemometrics,Chimiométrie,1,1,1,5
+1196,Fluorodeoxyglucose ,Fluorodésoxyglucose ,1,1,1,2
+1197,Irish people,Irlandais ,2,1,2,10
+1199,Cat,Chat,1,1,1,1
+1200,Himalayas,Himalaya,1,1,1,1
+1203,Krishna Janmashtami,Janmashtami,2,1,2,8
+1204,Podiatrist,Podiatre,1,1,1,3
+1205,Lymphocyte,Lymphocyte,1,1,1,0
+1206,Terumo,Terumo,1,1,1,0
+1211,Master of ceremonies,Cérémoniaire,3,1,2,17
+1215,Perspiration,Sueur,1,1,1,11
+1220,Radiography,Radiographie,1,1,1,2
+1222,Pyknosis,Pycnose,1,1,1,3
+1226,Pethidine,Péthidine,1,1,1,1
+1227,Safe sex,Sécurisexe,2,1,2,6
+1229,Extractivism,Extractivisme,1,1,1,1
+1231,Anus,Anus,1,1,1,0
+1234,Drug tolerance,Accoutumance,2,1,2,9
+1239,Valmiki,Vâlmîki,1,1,1,2
+1240,Arp2/3 complex,3,2,1,2,13
+1241,Mesothelioma,Mésothéliome,1,1,1,3
+1243,Calculation,Calcul ,1,1,1,5
+1245,Autoantibody,Auto-anticorps,1,1,1,5
+1247,Gorgan,Gorgan,1,1,1,0
+1248,Yaws,Pian ,1,1,1,4
+1250,Ephedra ,Ephedra,1,1,1,1
+1252,Spondyloarthropathy,Spondyloarthrite,1,1,1,5
+1253,"5-Methoxy-N,N-diisopropyltryptamine",5-Méthoxy-diisopropyltryptamine,1,1,1,5
+1259,Carcinoma,Carcinome,1,1,1,1
+1261,Fomite,Fomite,1,1,1,0
+1262,Repaglinide,Répaglinide,1,1,1,1
+1265,Digoxigenin,Digoxygénine,1,1,1,3
+1266,Berbere,Bérbéré,1,1,1,3
+1268,Shigellosis,Shigellose,1,1,1,2
+1272,Drambuie,Drambuie,1,1,1,0
+1274,Chromogen,Chromogène,1,1,1,2
+1276,Anti-inflammatory,Anti-inflammatoire,1,1,1,2
+1277,Combination therapy,Polythérapie,2,1,2,14
+1286,Advieh,Advieh,1,1,1,0
+1289,Pangolin,Pholidota,1,1,1,7
+1290,Bioremediation,Bioremédiation,1,1,1,1
+1293,Metabolism,Métabolisme,1,1,1,2
+1294,Immunosuppressive drug,Immunosuppresseur,2,1,2,6
+1298,Treponema,Treponema,1,1,1,0
+1301,"Southborough, Massachusetts",Southborough ,2,1,2,14
+1306,Antidiuretic,Antidiurétique,1,1,1,4
+1308,Plethodontidae,Plethodontidae,1,1,1,0
+1312,Pretzel,Bretzel,1,1,1,1
+1319,Acetylation,Acétylation,1,1,1,1
+1320,Ovary,Ovaire,1,1,1,2
+1329,Tianeptine,Tianeptine,1,1,1,0
+1331,Carboxyhemoglobin,Carboxyhémoglobine,1,1,1,2
+1333,Catnip,Cataire,1,1,1,3
+1337,Airport,Aéroport,1,1,1,2
+1338,Stethoscope,Stéthoscope,1,1,1,1
+1340,Fungal infection,Mycose,2,1,2,15
+1341,Ichthyosis,Ichtyose,1,1,1,3
+1342,N-Methylformamide,N-Méthylformamide,1,1,1,1
+1343,PyMOL,PyMOL,1,1,1,0
+1347,Supernatural,Surnaturel,1,1,1,3
+1348,Heart symbol,Cœur ,2,1,2,10
+1351,Batrachotoxin,Batrachotoxine,1,1,1,1
+1353,Life ,Life,1,1,1,1
+1357,Colitis,Colite,1,1,1,2
+1358,Callus,Cal ,1,1,1,3
+1359,Heart,Cœur,1,1,1,4
+1363,Compacted oxide layer glaze,Émaillage,4,1,2,20
+1364,Muscle cell,Myocyte,2,1,2,8
+1365,Histone,Histone,1,1,1,0
+1367,Meal,Repas,1,1,1,3
+1373,Southeast Asian ovalocytosis,Ovalocytose,3,1,2,19
+1379,Plasma cell,Plasmocyte,2,1,2,5
+1380,Alpha-1 antitrypsin,Alpha-1-antitrypsine,2,1,2,2
+1383,Cell ,Cellule ,1,1,1,3
+1384,Anticoagulant,Anticoagulant,1,1,1,0
+1393,Vertebra,Vertèbre,1,1,1,2
+1398,Rotavirus vaccine,Rotavirus#Vaccins,2,1,2,3
+1399,Jadarite,Jadarite,1,1,1,0
+1400,Biofeedback,Biofeedback,1,1,1,0
+1401,Bar ,Bar ,1,1,1,0
+1405,JWH-018,JWH-018,1,1,1,0
+1411,Dominance ,Dominance ,1,1,1,0
+1413,Nutrien,Nutrien,1,1,1,0
+1414,Neurosurgery,Neurochirurgie,1,1,1,7
+1415,Hydroxyproline,Hydroxyproline,1,1,1,0
+1418,MPP+,MPP+,1,1,1,0
+1423,Muti,Muti ,1,1,1,1
+1424,Gentamicin,Gentamicine,1,1,1,1
+1426,Bhagavad Gita,Bhagavad-Gita,2,1,2,1
+1427,Chemotherapy,Chimiothérapie,1,1,1,5
+1428,Finger cot,Doigtier,2,1,2,9
+1433,Encephalocele,Encéphalocèle,1,1,1,2
+1437,Cryptography,Cryptographie,1,1,1,2
+1438,Symporter,Symport,1,1,1,2
+1439,Pipe ,Tuyau,1,1,1,5
+1440,Imaging,Imagerie,1,1,1,4
+1441,Mucus,Mucus,1,1,1,0
+1442,Phalanx bone,Phalange ,2,1,2,6
+1443,Cobaltocene,Cobaltocène,1,1,1,1
+1444,Dry cask storage,Castor ,3,1,2,11
+1446,Packaging and labeling,Emballage,3,1,2,18
+1447,Crocodilia,Crocodilia,1,1,1,0
+1448,Chin augmentation,Génioplastie,2,1,2,14
+1449,Protein c-Fos,C-Fos,2,1,2,9
+1450,Kombucha,Kombucha,1,1,1,0
+1451,Lipoprotein,Lipoprotéine,1,1,1,2
+1452,Myelin,Myéline,1,1,1,2
+1456,Unicum,Unicum ,1,1,1,1
+1459,Ultrasound,Ultrason,1,1,1,2
+1460,Anticonvulsant,Antiépileptique,1,1,1,11
+1461,Thiol,Thiol,1,1,1,0
+1466,Electrocardiography,Électrocardiographie,1,1,1,3
+1468,Liver disease,Hépatopathie,2,1,2,12
+1469,Sidemount diving,Sidemount,2,1,2,7
+1472,Racemic mixture,Racémique,2,1,2,8
+1475,Chess,Échecs,1,1,1,3
+1477,Ciclesonide,Ciclésonide,1,1,1,1
+1479,Lobe ,Lobe ,1,1,1,0
+1481,Sertindole,Sertindole,1,1,1,0
+1483,Golimumab,Golimumab,1,1,1,0
+1484,Epidemiology,Épidémiologie,1,1,1,4
+1486,Melasma,Mélasma,1,1,1,1
+1487,Tonsil,Tonsille,1,1,1,2
+1489,Fuzuli ,Fuzûlî,1,1,1,3
+1491,Platelet,Thrombocyte,1,1,1,10
+1492,Medical diagnosis,Diagnostic ,2,1,2,12
+1493,Technology roadmap,Roadmap,2,1,2,12
+1494,Quackery,Charlatanisme,1,1,1,12
+1495,Chromosomal translocation,Translocation ,2,1,2,14
+1497,Nitrogen,Azote,1,1,1,6
+1499,Edinburgh,Édimbourg,1,1,1,4
+1502,Papilloma,Papillome,1,1,1,1
+1503,Virus,Virus,1,1,1,0
+1505,Infarction,Infarctus,1,1,1,3
+1506,Fluphenazine,Fluphénazine,1,1,1,1
+1510,Eotvos ,Eotvos,1,1,1,1
+1511,Cytokinesis,Cytodiérèse,1,1,1,6
+1513,Allergy,Allergie,1,1,1,2
+1514,Procaine,Procaïne,1,1,1,1
+1515,Aframomum melegueta,Maniguette,2,1,2,15
+1516,Arylcyclohexylamine,Arylcyclohexylamine,1,1,1,0
+1517,Biosphere,Biosphère,1,1,1,1
+1519,Spherocytosis,Sphérocytose,1,1,1,3
+1521,Biomarker,Biomarqueur,1,1,1,3
+1522,Hohenheim,Hohenheim ,1,1,1,1
+1524,Salzburg,Salzbourg,1,1,1,1
+1525,Skin condition,Dermatose,2,1,2,13
+1526,Thioester,Thioester,1,1,1,0
+1528,Drug eruption,Toxidermie,2,1,2,10
+1532,Electrocution,Électrocution,1,1,1,1
+1534,Maprotiline,Maprotiline,1,1,1,0
+1536,Mascara,Mascara,1,1,1,0
+1549,Pramana,Pramana,1,1,1,0
+1550,Parenchyma,Parenchyme,1,1,1,1
+1563,Antiandrogen,Anti-androgène,1,1,1,3
+1572,Charanda,Charanda,1,1,1,0
+1574,CD44,CD44 ,1,1,1,1
+1575,Hellebore,Helleborus,1,1,1,2
+1576,Dichloroisoprenaline,Dichloroisoprénaline,1,1,1,1
+1583,Scorpion,Scorpiones,1,1,1,2
+1584,Artephius,Artéphius,1,1,1,1
+1585,Vatican City,Vatican,2,1,2,5
+1588,Carcinogenesis,Cancérogenèse,1,1,1,6
+1592,Articular processes,Zygapophyse,2,1,2,14
+1593,Osteoclast,Ostéoclaste,1,1,1,2
+1594,Isfahan,Ispahan,1,1,1,1
+1595,Foundationalism,Fondationnalisme,1,1,1,3
+1599,Humidity,Hygrométrie,1,1,1,9
+1601,Matha,Math ,1,1,1,1
+1602,Hyperpnea,Hyperpnée,1,1,1,2
+1603,Ascaris,Ascaris ,1,1,1,1
+1604,Physiology,Physiologie,1,1,1,2
+1605,Isoprenaline,Isoprénaline,1,1,1,1
+1607,Rize,Rize,1,1,1,0
+1608,Strophanthus,Strophanthus,1,1,1,0
+1610,Delayed onset muscle soreness,Courbature,4,1,2,20
+1611,Ricinodendron,Ricinodendron,1,1,1,0
+1613,Pneuma,Pneuma,1,1,1,0
+1624,Actavis,Actavis,1,1,1,0
+1626,Syndrome ,Syndrome ,1,1,1,0
+1628,Utrecht,Utrecht,1,1,1,0
+1632,Appetite,Appétit,1,1,1,2
+1634,Anatomy,Anatomie,1,1,1,2
+1635,Anakinra,Anakinra,1,1,1,0
+1637,Tracheitis,Trachéite,1,1,1,3
+1639,Sulindac,Sulindac,1,1,1,0
+1640,Sirtuin,Sirtuine,1,1,1,1
+1641,Dardanelles,Dardanelles,1,1,1,0
+1645,Seaborgium,Seaborgium,1,1,1,0
+1650,Al-Kamil,Al-Kâmil,1,1,1,1
+1651,Medicine,Médecine,1,1,1,2
+1653,Adrenaline,Adrénaline,1,1,1,1
+1655,Channelopathy,Canalopathie,1,1,1,5
+1657,Commensalism,Commensalisme,1,1,1,1
+1658,Atlas ,Atlas ,1,1,1,0
+1659,Pneumonectomy,Pneumonectomie,1,1,1,2
+1660,Stomach,Estomac,1,1,1,3
+1665,Glucuronosyltransferase,Glucuronosyltransférase,1,1,1,1
+1667,Thrombolysis,Thrombolyse,1,1,1,2
+1669,Shire ,Shire ,1,1,1,0
+1671,Smriti,Smriti,1,1,1,0
+1672,Zakariya al-Qazwini,Al-Qazwini,2,1,2,10
+1674,Hair keratin,Exokératine,2,1,2,7
+1675,Catheter,Cathéter,1,1,1,1
+1680,Ubenimex,Bestatine,1,1,1,8
+1681,Ionic Greek,Ionien ,2,1,2,6
+1682,Hemiparesis,Hémiparésie,1,1,1,3
+1685,Antiporter,Antiport,1,1,1,2
+1688,Fascia,Fascia,1,1,1,0
+1692,Dosimeter,Dosimètre,1,1,1,3
+1693,Thiosulfate,Thiosulfate,1,1,1,0
+1697,Hyperaemia,Hyperémie,1,1,1,3
+1698,2C-H,2C-H,1,1,1,0
+1699,Cherubism,Chérubisme,1,1,1,2
+1700,Genentech,Genentech,1,1,1,0
+1702,Clematis,Clématite,1,1,1,3
+1706,Erysipelas,Érysipèle,1,1,1,4
+1707,Kalpa ,Kalpa ,1,1,1,0
+1708,Sciacca,Sciacca,1,1,1,0
+1712,Amchoor,Amchur,1,1,1,2
+1713,Pesticide,Pesticide,1,1,1,0
+1716,Syncytium,Syncytium,1,1,1,0
+1718,Religion,Religion,1,1,1,0
+1719,Transhumanism,Transhumanisme,1,1,1,1
+1721,Pasteurellosis,Pasteurellose,1,1,1,2
+1722,Blood,Sang,1,1,1,5
+1724,Pharmacist,Pharmacien,1,1,1,2
+1725,Halotolerance,Halotolérance,1,1,1,1
+1727,Dill,Aneth,1,1,1,5
+1728,Melanocyte,Mélanocyte,1,1,1,1
+1729,Glibenclamide,Glibenclamide,1,1,1,0
+1731,Triazene,Triazène,1,1,1,1
+1732,Mibefradil,Mibéfradil,1,1,1,1
+1735,Enteropathy,Entéropathie,1,1,1,3
+1737,Exotoxin,Exotoxine,1,1,1,1
+1739,Oncogene,Oncogène,1,1,1,1
+1742,Dravidian peoples,Dravidiens,2,1,2,8
+1746,Enflurane,Enflurane,1,1,1,0
+1749,Pseudocode,Pseudo-code,1,1,1,1
+1750,Margarine,Margarine,1,1,1,0
+1751,Ovary,Ovaire,1,1,1,2
+1752,Visual perception,Vue,2,1,2,14
+1753,Depolarization,Dépolarisation,1,1,1,2
+1754,Striatum,Striatum,1,1,1,0
+1757,"Rockville, Maryland",Rockville ,2,1,2,9
+1758,Adrenochrome,Adrénochrome,1,1,1,1
+1760,Mycobacterium,Mycobacterium,1,1,1,0
+1761,Brahmin,Brahmane,1,1,1,2
+1763,Weight loss,Amaigrissement,2,1,2,12
+1765,Exon,Exon,1,1,1,0
+1767,Triglyceride,Triglycéride,1,1,1,1
+1772,Abdomen,Abdomen,1,1,1,0
+1773,Metapontum,Métaponte,1,1,1,3
+1776,Prayer,Prière,1,1,1,4
+1777,Artery,Artère,1,1,1,2
+1781,Triglyceride,Triglycéride,1,1,1,1
+1782,Oxazepam,Oxazépam,1,1,1,1
+1783,Mountain,Montagne,1,1,1,3
+1789,Pancreatitis,Pancréatite,1,1,1,3
+1792,Palladium,Palladium,1,1,1,0
+1795,Abu-Mahmud Khojandi,Al-Khujandi,2,1,2,10
+1799,Alvars,Alvar,1,1,1,1
+1800,Cardiomegaly,Cardiomégalie,1,1,1,3
+1804,KIF24,KIF24,1,1,1,0
+1805,Al-Khansa,Al-H̠ansā’,1,1,1,4
+1806,Surdas,Surdas,1,1,1,0
+1807,Ethosuximide,Éthosuximide,1,1,1,1
+1808,Normochromic anemia,Normochrome,2,1,2,8
+1814,Bleeding,Hémorragie,1,1,1,9
+1815,Congenital iodine deficiency syndrome,Crétinisme,4,1,2,20
+1816,RTI-126,-2β--3β-phényltropane,1,1,1,20
+1819,System,Système,1,1,1,2
+1821,Engine knocking,Cliquetis,2,1,2,13
+1822,Muscimol,Muscimole,1,1,1,1
+1825,Proto-Greek language,Proto-grec,2,1,2,12
+1829,CPR-1000,CPR-1000,1,1,1,0
+1830,Plutarch,Plutarque,1,1,1,3
+1833,Dextropropoxyphene,Dextropropoxyphène,1,1,1,1
+1834,Superphénix,Superphénix,1,1,1,0
+1836,GTPase,GTPase,1,1,1,0
+1841,Vidyaranya,Vidyaranya,1,1,1,0
+1843,Volition ,Volonté ,1,1,1,5
+1844,Hamadan,Hamadan,1,1,1,0
+1846,Hyperinsulinism,Hyperinsulinisme,1,1,1,1
+1847,Diethylstilbestrol,Diéthylstilbestrol,1,1,1,1
+1849,Middle finger,Majeur ,2,1,2,11
+1850,AMP-activated protein kinase,AMPK,3,1,2,20
+1853,Thermography,Thermographie,1,1,1,2
+1854,8-Prenylnaringenin,8-prénylnaringénine,1,1,1,4
+1855,Hydrochlorothiazide,Hydrochlorothiazide,1,1,1,0
+1860,Microsurgery,Microchirurgie,1,1,1,7
+1861,Carpal bones,Carpe ,2,1,2,7
+1863,Levetiracetam,Lévétiracétam,1,1,1,3
+1865,Antiferromagnetism,Antiferromagnétisme,1,1,1,2
+1866,Sarcomere,Sarcomère,1,1,1,1
+1867,Cytokine,Cytokine,1,1,1,0
+1869,Agonist,Agoniste ,1,1,1,2
+1870,Infusion,Infusion,1,1,1,0
+1872,Tracheotomy,Trachéotomie,1,1,1,3
+1874,Sambucus,Sureau,1,1,1,6
+1876,Sievert,Sievert,1,1,1,0
+1877,Nicaragua,Nicaragua,1,1,1,0
+1880,Tokamak,Tokamak,1,1,1,0
+1881,Curculigo,Curculigo,1,1,1,0
+1882,Divination,Divination,1,1,1,0
+1883,Dublin,Dublin,1,1,1,0
+1884,Constructivism ,Constructivisme ,1,1,1,1
+1886,Irbesartan,Irbésartan,1,1,1,1
+1888,PricewaterhouseCoopers,PricewaterhouseCoopers,1,1,1,0
+1890,Vedanta,Védanta,1,1,1,1
+1892,Al-A'sha,Al-Aʿšā,1,1,1,4
+1893,Park,Parc,1,1,1,1
+1895,Swedish warship Mars,Mars ,3,1,2,16
+1901,Neodymium,Néodyme,1,1,1,4
+1903,Dhanvantari,Dhanvantari,1,1,1,0
+1906,Party and play,Chemsex,3,1,2,14
+1907,Grog,Grog,1,1,1,0
+1908,Plakin,Plakine,1,1,1,1
+1909,Averroes,Averroès,1,1,1,1
+1910,Colchicine,Colchicine,1,1,1,0
+1913,Irinotecan,Irinotécan,1,1,1,1
+1914,Leptospirosis,Leptospirose,1,1,1,2
+1917,Jejunum,Jéjunum,1,1,1,1
+1919,Eptifibatide,Eptifibatide,1,1,1,0
+1921,Metalloprotein,Métalloprotéine,1,1,1,3
+1923,Pregnancy,Grossesse,1,1,1,8
+1924,Teleost,Teleostei,1,1,1,2
+1927,Electrophysiology,Électrophysiologie,1,1,1,3
+1928,Al-Ghazali,Al-Ghazali,1,1,1,0
+1929,Triptan,Triptan,1,1,1,0
+1930,Falsifiability,Réfutabilité,1,1,1,8
+1933,Oganesson,Oganesson,1,1,1,0
+1937,Methane,Méthane,1,1,1,1
+1938,Thomism,Thomisme,1,1,1,1
+1940,Dapsone,Dapsone,1,1,1,0
+1947,Beta blocker,Bêta-bloquant,2,1,2,7
+1949,Hadith,Hadîth,1,1,1,1
+1950,"Argos, Peloponnese",Argos ,2,1,2,12
+1951,Lullaby,Berceuse,1,1,1,8
+1958,Actinomyces,Actinomyces,1,1,1,0
+1960,Uyghurs,Ouïghours,1,1,1,4
+1962,Glycoside,Hétéroside,1,1,1,5
+1963,Laryngitis,Laryngite,1,1,1,2
+1964,Antioxidant,Antioxydant,1,1,1,1
+1966,Alcon,Alcon,1,1,1,0
+1968,Gerontology,Gérontologie,1,1,1,3
+1969,Diethyltryptamine,Diéthyltryptamine,1,1,1,1
+1971,Sport of athletics,Athlétisme,3,1,2,14
+1972,Kiss,Baiser,1,1,1,4
+1974,Aeroponics,Aéroponie,1,1,1,3
+1975,Haridwar,Haridwar,1,1,1,0
+1979,Acoustics,Acoustique,1,1,1,3
+1984,Demography,Démographie,1,1,1,3
+1988,Monograph,Monographie,1,1,1,2
+1989,Lambda calculus,Lambda-calcul,2,1,2,3
+1993,Cardiomyopathy,Cardiomyopathie,1,1,1,2
+1996,Poland,Pologne,1,1,1,3
+1997,Antiarrhythmic agent,Antiarythmique,2,1,2,8
+2001,Listeriosis,Listériose,1,1,1,3
+2003,Trachea,Trachée,1,1,1,2
+2005,KIF6,KIF6,1,1,1,0
+2007,Hemodynamics,Hémodynamique,1,1,1,4
+2008,Febuxostat,Febuxostat,1,1,1,0
+2018,Kayak,Kayak,1,1,1,0
+2022,Curie ,Curie ,1,1,1,0
+2023,Diamagnetism,Diamagnétisme,1,1,1,2
+2027,Osteopenia,Ostéopénie,1,1,1,3
+2032,Meloxicam,Méloxicam,1,1,1,1
+2034,Axitinib,Axitinib,1,1,1,0
+2035,ITPR2,ITPR2,1,1,1,0
+2036,Marl,Marne ,1,1,1,3
+2039,Oxybutynin,Oxybutynine,1,1,1,1
+2040,Motion,Mouvement ,1,1,1,7
+2041,Ovulation,Ovulation,1,1,1,0
+2046,Herpesviridae,Herpesviridae,1,1,1,0
+2048,Leipzig,Leipzig,1,1,1,0
+2049,Egg as food,Œuf ,3,1,2,10
+2053,Crotone,Crotone,1,1,1,0
+2055,Clinician,Clinicien,1,1,1,1
+2057,Hypoventilation,Hypoventilation,1,1,1,0
+2059,Infrasound,Infrason,1,1,1,2
+2062,Myofibroblast,Myofibroblaste,1,1,1,1
+2064,Cigarette,Cigarette,1,1,1,0
+2065,Atrium ,Atrium ,1,1,1,0
+2066,Management of HIV/AIDS,Antirétroviral,3,1,2,19
+2070,Nautile,Nautile ,1,1,1,1
+2071,Akathisia,Akathisie,1,1,1,1
+2072,Willow,Saule,1,1,1,5
+2074,Proteolysis,Protéolyse,1,1,1,3
+2079,Pandemic,Pandémie,1,1,1,2
+2080,Vemurafenib,Vemurafenib,1,1,1,0
+2082,Atrazine,Atrazine,1,1,1,0
+2083,Mucus,Mucus,1,1,1,0
+2088,Pseudo-Geber,Pseudo-Geber,1,1,1,0
+2090,Allergy,Allergie,1,1,1,2
+2092,Cladribine,Cladribine,1,1,1,0
+2096,Kaikō ROV,Kaikō,2,1,2,4
+2097,Clitellata,Clitellata,1,1,1,0
+2101,Precession,Précession,1,1,1,1
+2104,Hepatology,Hépatologie,1,1,1,3
+2105,Kassites,Kassites,1,1,1,0
+2107,Omeprazole,Oméprazole,1,1,1,1
+2113,Jiaolong ,Jiaolong,1,1,1,1
+2114,Fenpropathrin,Fenpropathrine,1,1,1,1
+2115,Intermenstrual bleeding,Métrorragie,2,1,2,18
+2118,Massage,Massage,1,1,1,0
+2123,Precursor cell,Blaste,2,1,2,12
+2125,Discicristata,Discicristata,1,1,1,0
+2126,Mutagen,Mutagène,1,1,1,2
+2128,Methohexital,Méthohexital,1,1,1,1
+2131,"Framingham, Massachusetts",Framingham,2,1,2,15
+2132,Reduction ,Réduction ,1,1,1,1
+2133,Shiva,Shiva,1,1,1,0
+2135,Family,Famille,1,1,1,2
+2138,Neuron,Neurone,1,1,1,1
+2140,Charybdotoxin,Charybdotoxine,1,1,1,1
+2141,Parthenon,Parthénon,1,1,1,1
+2145,Tonne,Tonne,1,1,1,0
+2148,Endo International,Endo ,2,1,2,13
+2153,Tachykinin peptides,Tachykinine,2,1,2,8
+2156,Enantiomer,Énantiomérie,1,1,1,4
+2157,Asthma,Asthme,1,1,1,1
+2158,Ruminant,Rumination ,1,1,1,4
+2159,Autoantibody,Auto-anticorps,1,1,1,5
+2160,Tai chi,Tai-chi-chuan,2,1,2,7
+2162,Tetraodontidae,Poisson-globe,1,1,1,12
+2168,Sound,Son ,1,1,1,2
+2169,Parasitemia,Parasitémie,1,1,1,2
+2170,Hyperammonemia,Hyperammoniémie,1,1,1,3
+2171,Medicare ,Medicare,1,1,1,1
+2173,Dodona,Dodone,1,1,1,1
+2176,Exenatide,Exénatide,1,1,1,1
+2177,Assassination,Magnicide,1,1,1,10
+2180,Mycenaean Greek,Mycénien,2,1,2,9
+2183,Leukocyte extravasation,Diapédèse,2,1,2,20
+2186,Fluorescence,Fluorescence,1,1,1,0
+2187,Bronchodilator,Bronchodilatateur,1,1,1,4
+2193,Bearing ,Palier ,1,1,1,5
+2196,Pharynx,Pharynx,1,1,1,0
+2200,Adolescence,Adolescence,1,1,1,0
+2201,Endo International,Endo ,2,1,2,13
+2202,Regulation,Réglementation,1,1,1,7
+2203,Bronchitis,Bronchite,1,1,1,2
+2208,Girentuximab,Girentuximab,1,1,1,0
+2209,Sulbentine,Sulbentine,1,1,1,0
+2210,Black,Noir,1,1,1,5
+2212,Decade,Décennie,1,1,1,5
+2213,Cephalohematoma,Céphalhématome,1,1,1,4
+2214,Pint,Pinte,1,1,1,1
+2217,Radiation therapy,Radiothérapie,2,1,2,8
+2218,Typhus,Typhus,1,1,1,0
+2221,Micrognathism,Micrognathie,1,1,1,2
+2222,Electrolysis,Électrolyse,1,1,1,3
+2224,Telehealth,Télémédecine,1,1,1,9
+2225,Verbosity,Verbiage,1,1,1,5
+2229,Erythromelalgia,Érythromélalgie,1,1,1,3
+2231,Trazodone,Trazodone,1,1,1,0
+2233,Cuvette,Cuvette ,1,1,1,1
+2239,Saussurea,Saussurea,1,1,1,0
+2241,Pump,Pompe,1,1,1,2
+2242,Liposuction,Liposuccion,1,1,1,1
+2243,Arctiinae,Arctiinae,1,1,1,0
+2245,Ageusia,Agueusie,1,1,1,2
+2248,Reducing agent,Réducteur ,2,1,2,10
+2249,Würzburg,Wurtzbourg,1,1,1,3
+2251,Bioethics,Bioéthique,1,1,1,4
+2255,Ipilimumab,Ipilimumab,1,1,1,0
+2257,Judaea ,Judée ,1,1,1,2
+2260,Bronze,Bronze,1,1,1,0
+2264,Spasm,Spasme,1,1,1,1
+2267,Wiley-Blackwell,Wiley-Blackwell,1,1,1,0
+2268,Disease,Maladie,1,1,1,6
+2274,Anemophily,Anémophilie,1,1,1,3
+2275,Shiksha,Shiksha,1,1,1,0
+2277,Pravastatin,Pravastatine,1,1,1,1
+2278,Gynaecology,Gynécologie,1,1,1,4
+2279,Epistemology,Épistémologie,1,1,1,4
+2280,Ketenimine,Céténimine,1,1,1,3
+2281,Azacitidine,Azacitidine,1,1,1,0
+2282,Virtual colonoscopy,Coloscanner,2,1,2,16
+2283,Phenmetrazine,Phenmétrazine,1,1,1,1
+2284,Microbiota,Microbiote,1,1,1,1
+2285,Budipine,Budipine,1,1,1,0
+2287,Hydroxyethyl starch,Hydroxyéthylamidon,2,1,2,8
+2289,Speech,Parole,1,1,1,6
+2291,Hypoxia ,Hypoxie,1,1,1,2
+2294,Liquorice,Réglisse,1,1,1,8
+2297,Anticoagulant,Anticoagulant,1,1,1,0
+2306,Ejaculation,Éjaculation,1,1,1,1
+2307,United Kingdom,Royaume-Uni,2,1,2,13
+2308,Yemen,Yémen,1,1,1,1
+2309,Ketorolac,Kétorolac,1,1,1,1
+2313,Sitagliptin,Sitagliptine,1,1,1,1
+2315,Dipsomania,Dipsomanie,1,1,1,1
+2318,Colony ,Colonie ,1,1,1,2
+2319,Dipropyltryptamine,Dipropyltryptamine,1,1,1,0
+2320,Ephedra ,Ephedra,1,1,1,1
+2321,Natural reservoir,Réservoir ,2,1,2,11
+2323,Guangzhou,Canton ,1,1,1,7
+2326,Bifonazole,Bifonazole,1,1,1,0
+2328,Antihistamine,Antihistaminique,1,1,1,3
+2332,Cyclamate,Cyclamate,1,1,1,0
+2335,Dicoumarol,Dicoumarol,1,1,1,0
+2338,Alicudi,Alicudi,1,1,1,0
+2342,Canada,Canada,1,1,1,0
+2343,Semicarbazone,Semicarbazone,1,1,1,0
+2347,Tyramine,Tyramine,1,1,1,0
+2348,CT scan,Tomodensitométrie,2,1,2,16
+2351,Trinidad and Tobago,Trinité-et-Tobago,3,1,2,8
+2352,Brewing,Brassage,1,1,1,5
+2354,Tinnitus,Acouphène,1,1,1,9
+2355,Ether,Éther-oxyde,1,1,1,7
+2356,Hundun,Hundun,1,1,1,0
+2357,Thymic stromal lymphopoietin,TSLP,3,1,2,20
+2360,Thermoplastic,Thermoplastique,1,1,1,3
+2361,Spermine,Spermine,1,1,1,0
+2363,Hysterectomy,Hystérectomie,1,1,1,3
+2364,Bisphosphonate,Bisphosphonate,1,1,1,0
+2367,Sacrum,Sacrum,1,1,1,0
+2369,Appendectomy,Appendicectomie,1,1,1,4
+2370,Conjunctivitis,Conjonctivite,1,1,1,3
+2372,Nonylphenol,Nonylphénol,1,1,1,1
+2373,Fat,Graisse,1,1,1,6
+2382,Al-Busiri,Bousiri,1,1,1,4
+2384,Ratio,Rapport ,1,1,1,5
+2386,Phonophobia,Phonophobie,1,1,1,1
+2388,Horticulture,Horticulture,1,1,1,0
+2391,Highball,Highball ,1,1,1,1
+2392,Orosomucoid,Orosomucoïde,1,1,1,2
+2397,Accreditation,Accréditation ,1,1,1,2
+2399,Commandaria,Commandaria,1,1,1,0
+2402,P70-S6 Kinase 1,S6K1,3,1,2,11
+2405,Deforestation,Déforestation,1,1,1,1
+2406,Galactoside,Galactoside,1,1,1,0
+2410,Scalpel,Bistouri,1,1,1,8
+2411,Nerve,Nerf,1,1,1,2
+2412,Maggot therapy,Asticothérapie,2,1,2,10
+2413,Amifampridine,Amifampridine,1,1,1,0
+2422,Vertebra,Vertèbre,1,1,1,2
+2423,Spinal adjustment,Ajustement ,2,1,2,11
+2424,Dichlorodiphenyldichloroethylene,Dichlorodiphényldichloroéthylène,1,1,1,3
+2428,Levitation ,Lévitation ,1,1,1,1
+2431,Burping,Éructation,1,1,1,8
+2432,Śruti,Shruti,1,1,1,2
+2436,Asteroideae,Asteroideae,1,1,1,0
+2441,Lactation,Lactation,1,1,1,0
+2443,Primary polydipsia,Potomanie,2,1,2,15
+2444,Electrode,Électrode,1,1,1,1
+2445,Advertising,Publicité,1,1,1,9
+2454,Risk,Risque,1,1,1,3
+2457,Mebeverine,Mébévérine,1,1,1,3
+2459,Rivaroxaban,Rivaroxaban,1,1,1,0
+2464,Bronchiole,Bronchiole,1,1,1,0
+2465,Hyperlipidemia,Hyperlipémie,1,1,1,4
+2466,Bendiocarb,Bendiocarbe,1,1,1,1
+2467,Consolida,Consolida,1,1,1,0
+2473,Luftwaffe,Luftwaffe ,1,1,1,1
+2475,Ergoline,Ergoline,1,1,1,0
+2478,Pragmatism,Pragmatisme,1,1,1,1
+2481,Triadin,Triadine,1,1,1,1
+2487,Yuzu koshō,Yuzukoshō,2,1,2,1
+2488,Salinity,Salinité,1,1,1,1
+2492,Botulism,Botulisme,1,1,1,1
+2494,Temple of Hephaestus,Héphaïstéion,3,1,2,16
+2501,Pyrite,Pyrite,1,1,1,0
+2509,Jaimini,Jaimini,1,1,1,0
+2510,Humanities,Lettres ,1,1,1,8
+2512,Thulium,Thulium,1,1,1,0
+2518,Daratumumab,Daratumumab,1,1,1,0
+2520,Permethrin,Perméthrine,1,1,1,2
+2521,Bromochlorodifluoromethane,Bromochlorodifluorométhane,1,1,1,1
+2522,Inotrope,Inotropisme,1,1,1,3
+2523,English language,Anglais,2,1,2,12
+2527,Thermoregulation,Thermorégulation,1,1,1,1
+2530,Port wine,Porto ,2,1,2,5
+2531,Clonidine,Clonidine,1,1,1,0
+2535,Levocardia,Lévocardie,1,1,1,2
+2537,Chemoprophylaxis,Chimioprévention,1,1,1,11
+2539,Colonialism,Colonialisme,1,1,1,1
+2546,Tetramethyllead,Tétraméthylplomb,1,1,1,6
+2548,Lentigo,Lentigo,1,1,1,0
+2554,Hypervolemia,Hypervolémie,1,1,1,2
+2559,Hyperglycemia,Hyperglycémie,1,1,1,2
+2560,Pulmonary pleurae,Plèvre,2,1,2,13
+2561,Innsbruck,Innsbruck,1,1,1,0
+2563,Petechia,Pétéchie,1,1,1,3
+2567,Haenyeo,Haenyo,1,1,1,1
+2568,Exercise,Fitness,1,1,1,7
+2569,Bromo-DragonFLY,Bromo-DragonFly,1,1,1,2
+2570,TRPM2,TRPM2,1,1,1,0
+2575,Fire extinguisher,Extincteur,2,1,2,12
+2576,Metastasis,Métastase ,1,1,1,3
+2579,Rectum,Rectum,1,1,1,0
+2585,Korea,Corée,1,1,1,3
+2587,Abyssinian cat,Abyssin,2,1,2,7
+2588,Chlorocebus,Chlorocebus,1,1,1,0
+2589,Ertugliflozin,Ertugliflozine,1,1,1,1
+2590,Triathlon,Triathlon,1,1,1,0
+2592,Recklessness ,Insouciance ,1,1,1,11
+2593,"2,2,2-Trichloroethanol","2,2,2-Trichloréthanol",1,1,1,2
+2596,Vanadium,Vanadium,1,1,1,0
+2597,Cryonics,Cryonie,1,1,1,2
+2598,Dysplasia,Dysplasie,1,1,1,1
+2601,Acne,Acné,1,1,1,1
+2606,Joint United Nations Programme on HIV/AIDS,ONUSIDA,6,1,2,20
+2607,Optometry,Optométrie,1,1,1,3
+2609,Ranitidine,Ranitidine,1,1,1,0
+2618,Tonsil,Tonsille,1,1,1,2
+2621,Topical steroid,Dermocorticoïde,2,1,2,13
+2627,Drying oil,Siccativation,2,1,2,12
+2630,Bacterial vaginosis,Vaginose,2,1,2,13
+2632,Sirukumab,Sirukumab,1,1,1,0
+2633,Micafungin,Micafungine,1,1,1,1
+2634,Nauka ,Nauka ,1,1,1,0
+2636,Bacillus,Bacillus,1,1,1,0
+2637,Sake,Saké,1,1,1,1
+2638,Inflammation,Inflammation,1,1,1,0
+2640,Ancient history,Antiquité,2,1,2,10
+2641,CAMK,calmoduline-dépendante,1,1,1,20
+2642,Conium,Conium,1,1,1,0
+2643,Volt,Volt,1,1,1,0
+2645,Haematopoiesis,Hématopoïèse,1,1,1,6
+2646,Compression ,Compression ,1,1,1,0
+2650,Antiarrhythmic agent,Antiarythmique,2,1,2,8
+2657,Asclepiad ,Asclépiades,1,1,1,3
+2658,PTI-2,PTI-2,1,1,1,0
+2661,Mechanoreceptor,Mécanorécepteur,1,1,1,5
+2664,Maitreya teachings,Maitreyisme,2,1,2,10
+2668,Capillary,Capillaire ,1,1,1,3
+2672,Mexico,Mexique,1,1,1,3
+2680,Graphite,Graphite,1,1,1,0
+2683,Hummingbird,Trochilidae,1,1,1,11
+2687,Triboelectric effect,Triboélectricité,2,1,2,8
+2688,Antithrombin,Antithrombine,1,1,1,1
+2690,Physician,Médecin,1,1,1,6
+2691,Esmolol,Esmolol,1,1,1,0
+2692,Colorectal surgery,Proctologie,2,1,2,13
+2694,Atracurium besilate,Atracurium,2,1,2,9
+2695,Medical ultrasound,Échographie,2,1,2,15
+2697,Android ,Android,1,1,1,1
+2699,Pagophagia,Pagophagie,1,1,1,1
+2706,Substance dependence,Pharmacodépendance,2,1,2,10
+2707,Opiorphin,Opiorphine,1,1,1,1
+2710,Phylogenetics,Phylogénie,1,1,1,5
+2714,Cochrane ,Cochrane ,1,1,1,0
+2717,TREM1,TREM1,1,1,1,0
+2718,Hypothyroidism,Hypothyroïdie,1,1,1,3
+2720,Hypernatremia,Hypernatrémie,1,1,1,2
+2721,Phenol,Phénol ,1,1,1,2
+2722,Tentacle,Tentacule,1,1,1,1
+2726,Rangeland,Parcours ,1,1,1,8
+2728,Doxepin,Doxépine,1,1,1,2
+2733,Emotion,Émotion,1,1,1,1
+2737,Lorcaserin,Lorcasérine,1,1,1,2
+2742,Heart,Cœur,1,1,1,4
+2743,Fibrillin,Fibrilline,1,1,1,1
+2747,Microorganism,Micro-organisme,1,1,1,2
+2749,Sonar,Sonar,1,1,1,0
+2754,Intron,Intron,1,1,1,0
+2760,Bioprospecting,Bioprospection,1,1,1,2
+2762,Dermatome ,Dermatome,1,1,1,1
+2765,Propionitrile,Propionitrile,1,1,1,0
+2766,Phylum,Embranchement ,1,1,1,13
+2767,Württemberg,Wurtemberg,1,1,1,2
+2768,Saskatchewan,Saskatchewan,1,1,1,0
+2774,Helicobacter,Helicobacter,1,1,1,0
+2775,Fludiazepam,Fludiazépam,1,1,1,1
+2778,Togo,Togo,1,1,1,0
+2780,Flashing ,Solin ,1,1,1,6
+2781,Colitis,Colite,1,1,1,2
+2784,Alcohol intoxication,Ivresse,2,1,2,20
+2787,Chaplain,Chapelain,1,1,1,1
+2792,Melbourne,Melbourne,1,1,1,0
+2793,Myelin,Myéline,1,1,1,2
+2795,Norbaeocystin,Norbaéocystine,1,1,1,2
+2799,Spirometer,Spiromètre,1,1,1,3
+2800,Sickle cell disease,Drépanocytose,3,1,2,16
+2806,Pythagoras,Pythagore,1,1,1,2
+2809,Stimulant,Stimulant,1,1,1,0
+2811,Headache,Céphalée,1,1,1,6
+2812,Formaldehyde,Méthanal,1,1,1,11
+2813,Pediatrics,Pédiatrie,1,1,1,3
+2814,Pulmonology,Pneumologie,1,1,1,7
+2817,Antihypotensive agent,Vasopresseur,2,1,2,17
+2819,Toxin,Toxine,1,1,1,1
+2821,KRAS,KRAS,1,1,1,0
+2822,Ramananda,Râmânanda,1,1,1,2
+2824,Dietitian,Diététicien,1,1,1,5
+2825,"Parow, South Africa",Parow,3,1,2,14
+2831,Cofactor ,Cofacteur ,1,1,1,2
+2832,Ruby,Rubis,1,1,1,2
+2833,Taormina,Taormine,1,1,1,1
+2834,Pellagra,Pellagre,1,1,1,1
+2835,Riluzole,Riluzole,1,1,1,0
+2837,Oribasius,Oribase,1,1,1,3
+2838,Hypoactive sexual desire disorder,Frigidité,4,1,2,20
+2843,Pericardium,Péricarde,1,1,1,4
+2844,Eye drop,Collyre,2,1,2,7
+2845,Capacitor,Condensateur,1,1,1,9
+2847,Abscess,Abcès,1,1,1,3
+2849,Tobacco,Tabac,1,1,1,3
+2853,Drink,Boisson,1,1,1,6
+2855,Cochrane ,Cochrane ,1,1,1,0
+2856,Daminozide,Daminozide,1,1,1,0
+2858,Bevacizumab,Bévacizumab,1,1,1,1
+2862,Calcium,Calcium,1,1,1,0
+2863,Hemolymph,Hémolymphe,1,1,1,2
+2867,Pound ,Livre ,1,1,1,5
+2868,Ethnomedicine,Ethnomédecine,1,1,1,2
+2875,Penicillamine,Pénicillamine,1,1,1,1
+2878,Maraschino,Marasquin,1,1,1,3
+2881,Meeting,Rencontre,1,1,1,7
+2882,Nitrox,Nitrox,1,1,1,0
+2883,Vaishnavism,Vishnouisme,1,1,1,4
+2884,Hospital,Hôpital,1,1,1,2
+2889,Phosphate,Phosphate,1,1,1,0
+2892,Menthol,Menthol,1,1,1,0
+2894,Bilirubin,Bilirubine,1,1,1,1
+2897,Parathyroidectomy,Parathyroïdectomie,1,1,1,3
+2898,iPhone,IPhone,1,1,1,1
+2900,Microangiopathy,Microangiopathie,1,1,1,2
+2902,Embolism,Embolie,1,1,1,2
+2904,Leaf beetle,Chrysomelidae,2,1,2,11
+2907,Concentration,Concentration ,1,1,1,1
+2910,4-MeO-PCP,4-Méthoxyphénylcyclidine,1,1,1,20
+2912,Salmon,Saumon,1,1,1,1
+2913,Torr,Torr,1,1,1,0
+2915,Apraxia,Apraxie,1,1,1,1
+2917,Otorhinolaryngology,Otorhinolaryngologie,1,1,1,2
+2920,Caraco,Caraco ,1,1,1,1
+2923,Ibn Zuhr,Avenzoar,2,1,2,7
+2925,Glycoside,Hétéroside,1,1,1,5
+2926,Cortisol,Cortisol,1,1,1,0
+2928,Diplomonad,Diplomonadida,1,1,1,3
+2929,Sonoluminescence,Sonoluminescence,1,1,1,0
+2931,Carbohydrate,Glucide,1,1,1,10
+2934,CLCN1,CLCN1,1,1,1,0
+2935,Épaulard,Épaulard ,1,1,1,1
+2937,Acetone,Acétone,1,1,1,1
+2938,Edema,Œdème,1,1,1,3
+2940,Civitas ,Civitas ,1,1,1,0
+2941,Build–operate–transfer,Build-operate-transfer,1,1,1,2
+2943,Pessary,Pessaire,1,1,1,2
+2945,Mesembrine,Mésembrine,1,1,1,1
+2948,Hypermobility ,Hyperlaxité,1,1,1,7
+2949,Exocytosis,Exocytose,1,1,1,2
+2950,Sound,Son ,1,1,1,2
+2951,Hyoscyamine,Hyoscyamine,1,1,1,0
+2957,Periodontal disease,Parodontite,2,1,2,10
+2958,Amiodarone,Amiodarone,1,1,1,0
+2961,Priapism,Priapisme,1,1,1,1
+2963,Hyperandrogenism,Hyperandrogénie,1,1,1,3
+2965,Ricin,Ricine,1,1,1,1
+2966,Guinea-Bissau,Guinée-Bissau,1,1,1,2
+2972,The Intruder ,Intrusion ,2,1,2,8
+2975,Smartwatch,Smartwatch,1,1,1,0
+2977,Nail ,Ongle,1,1,1,4
+2978,Absorbance,Absorbance,1,1,1,0
+2981,Septum,Septum,1,1,1,0
+2982,Ecotax,Écotaxe,1,1,1,2
+2986,Antiarrhythmic agent,Antiarythmique,2,1,2,8
+2987,Morus ,Mûrier,1,1,1,4
+2990,Xerostomia,Xérostomie,1,1,1,2
+2992,Persians,Persans,1,1,1,1
+2995,Meloxicam,Méloxicam,1,1,1,1
+2996,Antihypertensive drug,Antihypertenseur,2,1,2,6
+2997,Alpha-lactalbumin,Alpha-lactalbumine,1,1,1,1
+2998,Methylprednisolone,Méthylprednisolone,1,1,1,1
+3001,Carmustine,Carmustine,1,1,1,0
+3004,Electride,Électrure,1,1,1,3
+3006,Rivastigmine,Rivastigmine,1,1,1,0
+3007,Bartender,Barman,1,1,1,5
+3009,Flibanserin,Flibansérine,1,1,1,2
+3011,Trimecaine,Trimécaïne,1,1,1,2
+3012,Dicaearchus,Dicéarque,1,1,1,5
+3013,"8-Cyclopentyl-1,3-dimethylxanthine","8-Cyclopentyl-1,3-diméthylxanthine",1,1,1,1
+3018,Phenylbutazone,Phénylbutazone,1,1,1,1
+3019,Hydrogen,Hydrogène,1,1,1,2
+3021,Meninges,Méninges,1,1,1,1
+3023,Cachexia,Cachexie,1,1,1,1
+3026,Plant,Plante,1,1,1,1
+3027,Inflammation,Inflammation,1,1,1,0
+3028,Arabic,Arabe,1,1,1,2
+3030,Pentylenetetrazol,Pentylènetétrazole,1,1,1,3
+3033,Azathioprine,Azathioprine,1,1,1,0
+3036,Glasgow,Glasgow,1,1,1,0
+3037,Spinal anaesthesia,Rachianesthésie,2,1,2,10
+3038,Lavandula,Lavande,1,1,1,3
+3039,Hypomania,Hypomanie,1,1,1,1
+3040,Neprilysin,Néprilysine,1,1,1,2
+3041,Nikonos,Nikonos,1,1,1,0
+3042,Ondansetron,Ondansétron,1,1,1,1
+3043,Hirudin,Hirudine,1,1,1,1
+3045,Erythropoietin,Érythropoïétine,1,1,1,4
+3046,Neutropenia,Neutropénie,1,1,1,2
+3047,Ammonium,Ammonium,1,1,1,0
+3052,"Aberdeen, Maryland",Aberdeen ,2,1,2,9
+3054,"Natick, Massachusetts",Natick,2,1,2,15
+3056,Thioacetamide,Thioacétamide,1,1,1,1
+3062,White blood cell,Leucocyte,3,1,2,13
+3064,Stuffing,Farce ,1,1,1,8
+3065,Dentition,Denture,1,1,1,5
+3066,Menstruation,Menstruation,1,1,1,0
+3068,Oligomenorrhea,Oligoménorrhée,1,1,1,3
+3069,Methoxyflurane,Méthoxyflurane,1,1,1,1
+3074,Headache,Céphalée,1,1,1,6
+3075,Flower,Fleur,1,1,1,3
+3079,Teriflunomide,Tériflunomide,1,1,1,1
+3085,Thalamus,Thalamus,1,1,1,0
+3086,Etidocaine,Étidocaïne,1,1,1,2
+3087,Motor neuron,Motoneurone,2,1,2,3
+3088,Hostility,Hostilité,1,1,1,1
+3089,Soft drink,Soda,2,1,2,7
+3090,Chills,Frissonnement,1,1,1,12
+3091,Nabilone,Nabilone,1,1,1,0
+3092,Anomer,Anomère,1,1,1,2
+3093,Glycolysis,Glycolyse,1,1,1,2
+3097,Captopril,Captopril,1,1,1,0
+3099,Iron supplement,Fer ,2,1,2,14
+3102,O-Acetylpsilocin,4-AcO-DMT,1,1,1,13
+3104,TRPM8,TRPM8,1,1,1,0
+3106,Monosaccharide,Ose,1,1,1,12
